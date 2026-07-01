@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b08ceb78e3b2495b8d808a5860e66794, type: 3}
+  m_Name: River
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AutoTile
+  m_DefaultSprite: {fileID: 20332341, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_MaskType: 0
+  m_Random: 0
+  m_PhysicsShapeCheck: 0
+  m_AutoTileDictionary:
+    keyData: 000000000300000008000000040000000e0000000c0000000b0000000a000000020000000700000001000000050000000d000000
+    valueData:
+    - spriteList:
+      - {fileID: -1471809210, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      - {fileID: 1731701131, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      - {fileID: 1975902939, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: -471856043, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: -935565217, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: 256072091, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: -1983205111, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: -1180119626, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: -62812033, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: -1131156472, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      - {fileID: -1541403995, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: 1585761495, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: 395733837, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: -279392775, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: -1820279171, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      - {fileID: -2106443847, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+    - spriteList:
+      - {fileID: 2008201802, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+  m_TextureList:
+  - {fileID: 2800000, guid: 648a9622a2ce26945a3271c301bbb674, type: 3}
+  m_TextureScaleList:
+  - 2.44
