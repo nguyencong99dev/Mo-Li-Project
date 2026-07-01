@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: add677b3005ded54495d21133a52d487
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -669414873142750167
+    second: Ivysaur_0
+  - first:
+      213: 8209219674494646738
+    second: Ivysaur_1
+  - first:
+      213: -3000508637911317735
+    second: Ivysaur_2
+  - first:
+      213: 2903123733743684182
+    second: Ivysaur_3
+  - first:
+      213: -3392557424647081287
+    second: Ivysaur_4
+  - first:
+      213: 3508217801609253610
+    second: Ivysaur_5
+  - first:
+      213: 5458947693795295981
+    second: Ivysaur_6
+  - first:
+      213: 1826583385829568623
+    second: Ivysaur_7
+  - first:
+      213: 3160129465678473675
+    second: Ivysaur_8
+  - first:
+      213: 2632009038964086711
+    second: Ivysaur_9
+  - first:
+      213: 726151992656154031
+    second: Ivysaur_10
+  - first:
+      213: 739867029631307032
+    second: Ivysaur_11
+  - first:
+      213: -4514182549001996901
+    second: Ivysaur_12
+  - first:
+      213: 8831286161083254697
+    second: Ivysaur_13
+  - first:
+      213: 3937241319026304198
+    second: Ivysaur_14
+  - first:
+      213: -8759217646002612554
+    second: Ivysaur_15
+  - first:
+      213: -478180864241738355
+    second: Ivysaur_16
+  - first:
+      213: -1356615312181537834
+    second: Ivysaur_17
+  - first:
+      213: -8889157891678900840
+    second: Ivysaur_18
+  - first:
+      213: 5324185752029677086
+    second: Ivysaur_19
+  - first:
+      213: -8844734100949038220
+    second: Ivysaur_20
+  - first:
+      213: -8460302480405094692
+    second: Ivysaur_21
+  - first:
+      213: 8913554746589156088
+    second: Ivysaur_22
+  - first:
+      213: -6939833683441910339
+    second: Ivysaur_23
+  - first:
+      213: 6162072860012828634
+    second: Ivysaur_24
+  - first:
+      213: -35145109015639478
+    second: Ivysaur_25
+  - first:
+      213: 9060739779580450640
+    second: Ivysaur_26
+  - first:
+      213: -5787573685818564087
+    second: Ivysaur_27
+  - first:
+      213: -6400606599627729186
+    second: Ivysaur_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ivysaur_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92496f638b2c5b6f0800000000000000
+      internalID: -669414873142750167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1897967951ae5ab4180947d4c7b7361c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2494.0,"y":71.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ivysaur_0: -669414873142750167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
