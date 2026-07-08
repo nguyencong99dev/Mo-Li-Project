@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb658cc220444f458cc37aa327fa115, type: 3}
   m_Name: Shovel
   m_EditorClassIdentifier: Assembly-CSharp::DataItem
-  Id: item_006
+  ID: item_006
   Name: Shovel
   Image: {fileID: 4026056958758724884, guid: c89041d2cbd9142468688548c5cca03c, type: 3}

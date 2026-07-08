@@ -787,13 +787,13 @@ TextureImporter:
       name: Main_tiles_21
       rect:
         serializedVersion: 2
-        x: 294
-        y: 218
-        width: 36
-        height: 39
+        x: 295
+        y: 240
+        width: 34
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 4, y: 5, z: 4, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1123,7 +1123,7 @@ TextureImporter:
         height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 4, y: 4, z: 4, w: 3}
+      border: {x: 5, y: 5, z: 5, w: 5}
       customData: 
       outline: []
       physicsShape: []
@@ -1315,13 +1315,13 @@ TextureImporter:
       name: Main_tiles_45
       rect:
         serializedVersion: 2
-        x: 298
-        y: 122
-        width: 28
-        height: 28
+        x: 299
+        y: 123
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 4, z: 3, w: 2}
       customData: 
       outline: []
       physicsShape: []
@@ -1971,6 +1971,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Main_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 219
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 3}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32da09fef45d940bae42c9636b0523
+      internalID: 2137128407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -2058,6 +2080,7 @@ TextureImporter:
       Main_tiles_72: 8707380010937502247
       Main_tiles_73: -4128048689382410405
       Main_tiles_74: 1580047889047873785
+      Main_tiles_75: 2137128407
       Main_tiles_8: -8362303861987968463
       Main_tiles_9: 5537268295911349988
   mipmapLimitGroupName: 

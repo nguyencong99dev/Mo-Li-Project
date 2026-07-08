@@ -17,6 +17,7 @@ public class ManagerInput : MonoBehaviour
         {
             return;
         }
+        Debug.Log("Manager Input Initialized");
     }
     public void OnMoveInput(InputAction.CallbackContext ctx)
     {

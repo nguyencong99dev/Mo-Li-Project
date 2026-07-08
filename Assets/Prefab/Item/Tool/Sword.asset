@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb658cc220444f458cc37aa327fa115, type: 3}
   m_Name: Sword
   m_EditorClassIdentifier: Assembly-CSharp::DataItem
-  Id: item_007
+  ID: item_007
   Name: Sword
   Image: {fileID: 9009477020402167856, guid: d4280c0d09bdbce4f93ff0fda1e66b11, type: 3}

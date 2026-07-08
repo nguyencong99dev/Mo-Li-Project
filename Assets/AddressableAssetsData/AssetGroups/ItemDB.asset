@@ -16,7 +16,7 @@ MonoBehaviour:
   m_GUID: 0d4afcd4d57d3374c878a4566c1011fd
   m_SerializeEntries:
   - m_GUID: 68bf5b472253af9448b280ea65a08086
-    m_Address: Assets/Prefab/Item/Tool/ItemDB.asset
+    m_Address: ItemDB
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

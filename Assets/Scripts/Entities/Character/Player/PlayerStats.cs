@@ -1,6 +1,16 @@
 using System;
 using UnityEngine;
 
+public struct SPlayerStats
+{
+    public float CurrentHP;
+    public float MaxHP;
+    public float CurrentMP;
+    public float MaxMP;
+    public float CurrentSP;
+    public float MaxSP;
+    public int Currency;
+}
 public class PlayerStats : MonoBehaviour
 {
     // === BASIC INFOMATION === //
@@ -11,7 +21,7 @@ public class PlayerStats : MonoBehaviour
 
     // === STATUS === //
     public float CurrentHP;
-    public float CurrentMP ;
+    public float CurrentMP;
     public float CurrentSP;
     private const int HPPerLv = 100;
     private const int MPPerLv = 100;
@@ -20,11 +30,19 @@ public class PlayerStats : MonoBehaviour
     public float MaxMP => level * MPPerLv;
     public float MaxSP => level * SPPerLv;
 
-    public event Action<float, float> OnHealthChanged;
-    public event Action <float, float> OnManaChanged;
-    public event Action<float, float> OnStaminaChanged;
-    public event Action<int> OnCurrencyChanged;
-
+    void Start()
+    {
+        EventBus<SPlayerStats>.Publish(new SPlayerStats
+        {
+            Currency = currrency,
+            CurrentHP = CurrentHP,
+            CurrentMP = CurrentMP,
+            CurrentSP = CurrentSP,
+            MaxHP = MaxHP,
+            MaxMP = MaxMP,
+            MaxSP = MaxSP
+        });
+    }
     public void SetPlayerStats(PlayerData _playerData)
     {
         level = _playerData.level;
@@ -32,15 +50,5 @@ public class PlayerStats : MonoBehaviour
         CurrentMP = _playerData.currentMP;
         CurrentSP = _playerData.currentSP;
         currrency = _playerData.currrency;
-    }
-    public void TakeDamage(float amount)
-    {
-        CurrentHP = Mathf.Max(0, CurrentHP - amount);
-        OnHealthChanged?.Invoke(CurrentHP, MaxHP);
-    }
-    public void UseMana(float amount)
-    {
-        CurrentMP = Mathf.Max(0, CurrentMP - amount);
-        OnManaChanged?.Invoke(CurrentMP, MaxMP);
     }
 }

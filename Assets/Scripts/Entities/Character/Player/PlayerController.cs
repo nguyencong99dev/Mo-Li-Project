@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public PlayerInventory playerInventory;
     public PlayerToolbar playerToolbar;
     public PlayerStats playerStats;
+    public PlayerParty playerParty;
     [SerializeField] private PlayerData playerData;
 
     void Awake()
@@ -15,6 +16,7 @@ public class PlayerController : MonoBehaviour
         playerInventory.SetInventory(playerData.Inventory);
         playerToolbar.SetToolbar(playerData.Toolbar);
         playerStats.SetPlayerStats(playerData);
+        playerParty.SetPartyMembers(playerData.PartyMembers);
     }
     void Start()
     {
@@ -28,5 +30,9 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
 
+    }
+    public PlayerData GetPlayerData()
+    {
+        return playerData;
     }
 }

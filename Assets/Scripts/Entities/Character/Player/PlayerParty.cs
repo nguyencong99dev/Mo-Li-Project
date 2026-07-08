@@ -2,14 +2,43 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+public struct SPlayerParty
+{
+    public List<MonsterData> _Party;
+}
 
 public class PlayerParty : MonoBehaviour
 {
-    [SerializeField] List<DataMember> membersParty;
-    public static bool isOpenInventory = false;
-    public event Action OnInventoryChanged;
-    public List<DataMember> GetMembersPartys()
+    [SerializeField] private List<MonsterData> _Party;
+
+    void Start()
     {
-        return membersParty;
+        EventBus<SPlayerParty>.Publish(new SPlayerParty
+        {
+            _Party = _Party
+        });
+    }
+    public void AddPartyMembers(MonsterData _monster)
+    {
+        if (_monster != null)
+        {
+            _Party.Add(_monster);
+            EventBus<SPlayerParty>.Publish(new SPlayerParty
+            {
+                _Party = _Party
+            });
+        }
+    }
+    public void RemovePetsParty()
+    {
+
+    }
+    public List<MonsterData> GetPartyMembers()
+    {
+        return _Party;
+    }
+    public void SetPartyMembers(List<MonsterData> newParty)
+    {
+        _Party = newParty;
     }
 }
