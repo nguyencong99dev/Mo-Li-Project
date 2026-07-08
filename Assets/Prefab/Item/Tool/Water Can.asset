@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb658cc220444f458cc37aa327fa115, type: 3}
   m_Name: Water Can
   m_EditorClassIdentifier: Assembly-CSharp::DataItem
-  Id: item_00
+  ID: item_008
   Name: Water Can
   Image: {fileID: 6324741640525731626, guid: 32b63b7bb64fe1745bc3d6e78a2c224a, type: 3}

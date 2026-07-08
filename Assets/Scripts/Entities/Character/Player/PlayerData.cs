@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Numerics;
-using UnityEngine;
 
-[System.Serializable]
+[Serializable]
 public class PlayerData
 {
     // === BASIC INFOMATION === //
@@ -18,10 +17,10 @@ public class PlayerData
     public float currentSP = 50;
 
     // === POSITION === //
-    public System.Numerics.Vector3 playerPosition;
+    public Vector3 playerPosition;
     public string currentScene = "Test";
     
     public List<string> Inventory = new();
     public List<string> Toolbar = new();
-    public List<string> PartyMember = new();
+    public List<MonsterData> PartyMembers = new();
 }

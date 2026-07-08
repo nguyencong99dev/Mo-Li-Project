@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb658cc220444f458cc37aa327fa115, type: 3}
   m_Name: Axe
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  Id: item_001
+  ID: item_001
   Name: Axe
   Image: {fileID: 4701689186059867459, guid: 5c9d9c12c3a04a14cbf9b8166fadd4a7, type: 3}

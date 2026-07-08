@@ -8,14 +8,16 @@ public class Bootstrapper : MonoBehaviour
 {
     [Header("Scene Settings")]
     public const string MAIN_MENU_SCENE_NAME = "MainMenu";
+    [SerializeField] private Slider LoadingSlider;
 
     [Header("Game Manager")]
     public ManagerAssets ManagerAssets;
     public ManagerAudio ManagerAudio;
-    public ManagerData ManagerData;
+    public ManagerSave ManagerSave;
     public ManagerGame ManagerGame;
     public ManagerScene ManagerScene;
     public ManagerInput ManagerInput;
+    
 
     private void Awake()
     {
@@ -26,13 +28,13 @@ public class Bootstrapper : MonoBehaviour
     {
         yield return StartCoroutine(InitializeManagers());
         yield return StartCoroutine(LoadMainScene());
-        // Destroy(this);
+        Destroy(this);
     }
     private IEnumerator InitializeManagers()
     {
         DontDestroyOnLoad(ManagerAssets);
         DontDestroyOnLoad(ManagerAudio);
-        DontDestroyOnLoad(ManagerData);
+        DontDestroyOnLoad(ManagerSave);
         DontDestroyOnLoad(ManagerGame);
         DontDestroyOnLoad(ManagerInput);
         DontDestroyOnLoad(ManagerScene);
@@ -45,11 +47,10 @@ public class Bootstrapper : MonoBehaviour
 
         while (!asyncLoad.isDone)
         {
-            // float progress = Mathf.Clamp01(asyncLoad.progress / 0.9f);
-
+            LoadingSlider.value = Mathf.Lerp(0f, 1f, asyncLoad.progress / 0.9f);
             if (asyncLoad.progress >= 0.9f)
             {
-                yield return new WaitForSeconds(2f);
+                yield return new WaitForSeconds(0.5f);
                 asyncLoad.allowSceneActivation = true;
             }
             yield return null;

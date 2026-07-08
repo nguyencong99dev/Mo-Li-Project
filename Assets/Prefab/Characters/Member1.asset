@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba2ea9ccc79f80848b235dc4cde74f5c, type: 3}
   m_Name: Member1
   m_EditorClassIdentifier: Assembly-CSharp::DataMember
-  Id: 1
+  ID: member_001
   Name: Member1
   Image: {fileID: -3145328045451892686, guid: daea21409c7783e42b80fed327466ecb, type: 3}
-  Level: 1
+  HPPerLV: 50
+  MPPerLV: 50

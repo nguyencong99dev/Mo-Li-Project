@@ -2,27 +2,28 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-
+public struct SPlayerInventory
+{
+    public List<string> Inventory;
+}
 public class PlayerInventory : MonoBehaviour
-{    
+{
     [SerializeField] private List<string> _Inventory;
-    public event Action<List<string>> OnInventoryChanged;
-
+    void Start()
+    {
+        EventBus<SPlayerInventory>.Publish(new SPlayerInventory { Inventory = _Inventory });
+    }
     public void AddItem(DataItem item)
     {
         if (item != null)
         {
-            _Inventory.Add(item.Id);
-            OnInventoryChanged?.Invoke(_Inventory);
+            _Inventory.Add(item.ID);
+            EventBus<SPlayerInventory>.Publish(new SPlayerInventory { Inventory = _Inventory });
         }
     }
     public void RemoveItem(DataItem item)
     {
-        
-    }
-    public List<string> GetInventoryItems()
-    {
-        return _Inventory;
+
     }
     public void SetInventory(List<string> inventoryId)
     {

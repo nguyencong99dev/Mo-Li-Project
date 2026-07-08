@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb658cc220444f458cc37aa327fa115, type: 3}
   m_Name: Bow
   m_EditorClassIdentifier: Assembly-CSharp::DataItem
-  Id: item_002
+  ID: item_002
   Name: Bow
   Image: {fileID: 9177112655168144694, guid: 063f9aa2bd4653645b11637548fdd5c1, type: 3}

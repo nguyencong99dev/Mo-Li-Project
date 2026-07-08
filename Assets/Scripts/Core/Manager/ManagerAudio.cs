@@ -14,6 +14,6 @@ public class ManagerAudio : MonoBehaviour
         {
             return;
         }
-        Debug.Log("Manager Audio");
+        Debug.Log("Manager Audio Initialized");
     }
 }

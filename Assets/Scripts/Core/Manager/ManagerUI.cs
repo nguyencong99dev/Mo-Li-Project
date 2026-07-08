@@ -14,6 +14,6 @@ public class ManagerUI : MonoBehaviour
         {
             return;
         }
-        Debug.Log("Manager UI");
+        Debug.Log("Manager UI Initialized");
     }
 }

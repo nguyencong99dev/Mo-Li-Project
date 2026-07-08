@@ -45,6 +45,7 @@ GameObject:
   - component: {fileID: 2829414463872806907}
   - component: {fileID: 4942429619136178408}
   - component: {fileID: 3091919833634179213}
+  - component: {fileID: 7271103720358387258}
   - component: {fileID: 8434490351923147300}
   m_Layer: 6
   m_Name: Player
@@ -127,9 +128,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c57895025162ce4cb34c2e0ca40f1b9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  playerInventory: {fileID: 0}
-  playerToolbar: {fileID: 0}
-  playerStats: {fileID: 0}
+  playerInventory: {fileID: 3091919833634179213}
+  playerToolbar: {fileID: 4942429619136178408}
+  playerStats: {fileID: 8434490351923147300}
+  playerParty: {fileID: 7271103720358387258}
+  playerData:
+    playerName: Player 1
+    level: 1
+    exp: 0
+    currrency: 0
+    currentHP: 75
+    currentMP: 75
+    currentSP: 50
+    currentScene: Test
+    Inventory: []
+    Toolbar: []
+    PartyMembers: []
 --- !u!114 &4942429619136178408
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -142,6 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95c4f49b62c478c49a960abc9d6577ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerToolbar
+  _Toolbar: []
 --- !u!114 &3091919833634179213
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -154,6 +169,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9245dfb47da0b904bb00a89d9ef4a86b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInventory
+  _Inventory: []
+--- !u!114 &7271103720358387258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3046515574293483649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eeeb3479ae67144bb760695e893ab18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerParty
+  _PartyMembers: []
 --- !u!114 &8434490351923147300
 MonoBehaviour:
   m_ObjectHideFlags: 0

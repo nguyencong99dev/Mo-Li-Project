@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fb658cc220444f458cc37aa327fa115, type: 3}
   m_Name: Fishing Rod
   m_EditorClassIdentifier: Assembly-CSharp::DataItem
-  Id: item_003
+  ID: item_003
   Name: FishingRod
   Image: {fileID: -6484643948791362671, guid: 0e018170c410c3543bf3f64c13af829f, type: 3}
