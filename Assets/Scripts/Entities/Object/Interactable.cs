@@ -7,7 +7,6 @@ public class Interactable : MonoBehaviour
 
     public bool isActice = false;
     [SerializeField] protected PlayerController playerController;
-    public static event Action OnIntaract;
     private void OnEnable()
     {
         // playerController.playerInteraction.OnInteractObject += Interact;

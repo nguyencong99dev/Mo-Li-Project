@@ -29,7 +29,7 @@ public class PlayerParty : MonoBehaviour
             });
         }
     }
-    public void RemovePetsParty()
+    public void RemovePartyMember()
     {
 
     }

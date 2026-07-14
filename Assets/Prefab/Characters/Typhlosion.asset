@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba2ea9ccc79f80848b235dc4cde74f5c, type: 3}
+  m_Name: Typhlosion
+  m_EditorClassIdentifier: Assembly-CSharp::DataMember
+  ID: member_006
+  Name: Typhlosion
+  FrontImage: {fileID: -4922992243281323345, guid: 5f4c567b313f0f64e8b7861f3ead6e77, type: 3}
+  BackImage: {fileID: 5098904294142735039, guid: 7e0b1544e2a5ba24fb721c6b12014c1d, type: 3}
+  HPPerLV: 50
+  MPPerLV: 50
+  Skills:
+  - skill_002
