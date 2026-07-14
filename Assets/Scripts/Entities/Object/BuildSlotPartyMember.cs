@@ -12,7 +12,7 @@ public class BuildSlotPartyMember : MonoBehaviour
             UIHandleMemberPanel hudMember = transform.GetChild(idx).GetComponent<UIHandleMemberPanel>();
             if (hudMember != null)
             {
-                MemberPanel memberPanelScript = transform.GetChild(idx).GetComponent<MemberPanel>();
+                PanelMember memberPanelScript = transform.GetChild(idx).GetComponent<PanelMember>();
                 if (memberPanelScript != null)
                 {
                     hudMember.InitBtn.gameObject.SetActive(false);

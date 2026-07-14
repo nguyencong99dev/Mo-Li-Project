@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba2ea9ccc79f80848b235dc4cde74f5c, type: 3}
+  m_Name: Venusaur
+  m_EditorClassIdentifier: Assembly-CSharp::DataMember
+  ID: member_001
+  Name: Venusaur
+  FrontImage: {fileID: -7302140963374641733, guid: e9a7c48c52bd8ce4e88e2f91f5312224, type: 3}
+  BackImage: {fileID: -1099101913381118676, guid: ec3aa513e029b844a9f44b82e6dbc060, type: 3}
+  HPPerLV: 50
+  MPPerLV: 50
+  Skills:
+  - skill_002

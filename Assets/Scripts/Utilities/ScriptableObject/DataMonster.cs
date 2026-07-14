@@ -6,8 +6,10 @@ public class DataMonster : ScriptableObject
 {
     public string ID;
     public string Name;
-    public Sprite Image;
+    public Sprite FrontImage;
+    public Sprite BackImage;
     public int HPPerLV;
     public int MPPerLV;
+    public int SpeedPerLV;
     public List<string> Skills = new();
 }
