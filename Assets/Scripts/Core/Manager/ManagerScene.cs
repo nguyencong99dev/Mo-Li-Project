@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class ManagerScene : MonoBehaviour
 {
-    public const string LoadingScene = "LoadingScene";
+    public const string CLoadingScene = "LoadingScene";
     public static ManagerScene Instance { get; private set; }
     void Awake()
     {
@@ -20,16 +20,20 @@ public class ManagerScene : MonoBehaviour
     }
     public IEnumerator LoadScene(string sceneName)
     {
-        // SceneManager.LoadScene(LoadingScene);
-        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(sceneName);
-        asyncLoad.allowSceneActivation = false;
-        while (!asyncLoad.isDone)
+        AsyncOperation loadLoading = SceneManager.LoadSceneAsync(CLoadingScene, LoadSceneMode.Additive);
+        while (!loadLoading.isDone)
+        {
+            yield return null;
+        }
+        AsyncOperation asyncLoadScene = SceneManager.LoadSceneAsync(sceneName);
+        asyncLoadScene.allowSceneActivation = false;
+        while (!asyncLoadScene.isDone)
         {
             // LoadingSlider.value = Mathf.Lerp(0f, 1f, asyncLoad.progress / 0.9f);
-            if (asyncLoad.progress >= 0.9f)
+            if (asyncLoadScene.progress >= 0.9f)
             {
                 yield return new WaitForSeconds(2f);
-                asyncLoad.allowSceneActivation = true;
+                asyncLoadScene.allowSceneActivation = true;
             }
             yield return null;
         }
