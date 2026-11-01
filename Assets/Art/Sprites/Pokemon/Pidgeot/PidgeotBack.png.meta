@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: 489e99a81677a6d4394daed3eb2268e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5435342118472089651
+    second: PidgeotBack_0
+  - first:
+      213: -1944822145247067071
+    second: PidgeotBack_1
+  - first:
+      213: -7753571776444997598
+    second: PidgeotBack_2
+  - first:
+      213: 3067148753654484788
+    second: PidgeotBack_3
+  - first:
+      213: -5142845681774812689
+    second: PidgeotBack_4
+  - first:
+      213: 499705915885930768
+    second: PidgeotBack_5
+  - first:
+      213: 17318046953001710
+    second: PidgeotBack_6
+  - first:
+      213: 135629841214228102
+    second: PidgeotBack_7
+  - first:
+      213: -2130342632817871580
+    second: PidgeotBack_8
+  - first:
+      213: -316884229352219398
+    second: PidgeotBack_9
+  - first:
+      213: 1676748684055533457
+    second: PidgeotBack_10
+  - first:
+      213: 8043755508394341955
+    second: PidgeotBack_11
+  - first:
+      213: -5364176325025149511
+    second: PidgeotBack_12
+  - first:
+      213: 600281468408430219
+    second: PidgeotBack_13
+  - first:
+      213: -5904039531089243629
+    second: PidgeotBack_14
+  - first:
+      213: -5810239236801066484
+    second: PidgeotBack_15
+  - first:
+      213: 6896868409369401844
+    second: PidgeotBack_16
+  - first:
+      213: -7214630406238684076
+    second: PidgeotBack_17
+  - first:
+      213: 5730926392116797011
+    second: PidgeotBack_18
+  - first:
+      213: 787497117545594232
+    second: PidgeotBack_19
+  - first:
+      213: -8792583127576766896
+    second: PidgeotBack_20
+  - first:
+      213: 709028208462192903
+    second: PidgeotBack_21
+  - first:
+      213: -6500027075736324162
+    second: PidgeotBack_22
+  - first:
+      213: 5799535202697786587
+    second: PidgeotBack_23
+  - first:
+      213: -9202108005463556361
+    second: PidgeotBack_24
+  - first:
+      213: -1846296425890853398
+    second: PidgeotBack_25
+  - first:
+      213: -4464963836617351027
+    second: PidgeotBack_26
+  - first:
+      213: -8410764294072167466
+    second: PidgeotBack_27
+  - first:
+      213: -3904034432751623402
+    second: PidgeotBack_28
+  - first:
+      213: -7024155565224807438
+    second: PidgeotBack_29
+  - first:
+      213: -372052080770217247
+    second: PidgeotBack_30
+  - first:
+      213: 5101730872302563752
+    second: PidgeotBack_31
+  - first:
+      213: -3719923599974962276
+    second: PidgeotBack_32
+  - first:
+      213: 2205526467840486384
+    second: PidgeotBack_33
+  - first:
+      213: -5451356271132699761
+    second: PidgeotBack_34
+  - first:
+      213: -2418938090706988910
+    second: PidgeotBack_35
+  - first:
+      213: 5865155573465007057
+    second: PidgeotBack_36
+  - first:
+      213: 7629554587546618554
+    second: PidgeotBack_37
+  - first:
+      213: 3834248847938658852
+    second: PidgeotBack_38
+  - first:
+      213: 7867479948892613209
+    second: PidgeotBack_39
+  - first:
+      213: 2564200560789247718
+    second: PidgeotBack_40
+  - first:
+      213: -135918071970960881
+    second: PidgeotBack_41
+  - first:
+      213: -3931734252413584059
+    second: PidgeotBack_42
+  - first:
+      213: 6855369235809027613
+    second: PidgeotBack_43
+  - first:
+      213: 287815635448256719
+    second: PidgeotBack_44
+  - first:
+      213: -318837152262380894
+    second: PidgeotBack_45
+  - first:
+      213: -7721802281812332370
+    second: PidgeotBack_46
+  - first:
+      213: 8602159356611234447
+    second: PidgeotBack_47
+  - first:
+      213: -9209352703359698616
+    second: PidgeotBack_48
+  - first:
+      213: -3453487280422092642
+    second: PidgeotBack_49
+  - first:
+      213: 1503861042942410145
+    second: PidgeotBack_50
+  - first:
+      213: -6790897179239521598
+    second: PidgeotBack_51
+  - first:
+      213: -3825077459346876227
+    second: PidgeotBack_52
+  - first:
+      213: 1824529787011759929
+    second: PidgeotBack_53
+  - first:
+      213: -9112983813384417742
+    second: PidgeotBack_54
+  - first:
+      213: -4066650564250372806
+    second: PidgeotBack_55
+  - first:
+      213: -5313301510519002998
+    second: PidgeotBack_56
+  - first:
+      213: -4920993866143535399
+    second: PidgeotBack_57
+  - first:
+      213: -1986345318570812339
+    second: PidgeotBack_58
+  - first:
+      213: 3352712434837348904
+    second: PidgeotBack_59
+  - first:
+      213: -3636792901503524149
+    second: PidgeotBack_60
+  - first:
+      213: -3345460191359429147
+    second: PidgeotBack_61
+  - first:
+      213: -6442647798168868268
+    second: PidgeotBack_62
+  - first:
+      213: -5020518300345324105
+    second: PidgeotBack_63
+  - first:
+      213: -308163343151994564
+    second: PidgeotBack_64
+  - first:
+      213: 3930970142245628836
+    second: PidgeotBack_65
+  - first:
+      213: -2057019402051825609
+    second: PidgeotBack_66
+  - first:
+      213: -5728846592109004252
+    second: PidgeotBack_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PidgeotBack_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3308f3cebd63e6b40800000000000000
+      internalID: 5435342118472089651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5cef227d5083b41a73615cafff196f
+      internalID: -1843617650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6db4614ac0c3488e2fadcf41b2df3
+      internalID: 845148353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e7ac9e34815ee4e8b6d646f0fc1666
+      internalID: 1117581173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df11e0128a7c2e409fb4c9482f8ca4f
+      internalID: -946896635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_5
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d5e925a5e5c8842a7c82c3c1e4bcf0
+      internalID: 213404573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de2411295ddc04d817513e52e7aff4
+      internalID: -1364634369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_7
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2296b817d9b71c47af515a837a67fa8
+      internalID: 81686228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_8
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8979e0edac3ce4e89f332eb921954f
+      internalID: 1940293452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b45980d386e652428fe839f87599e64
+      internalID: -1266251043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_10
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a49fec97d0e744bad72437f99d398
+      internalID: -1805031309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_11
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 858
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6320fad382dd22549934da7a7a08d4e4
+      internalID: -860493444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab7bb5c768226244b92548c1e9ff60d
+      internalID: -619329325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129ecf91feb58ca4cb362d3ff845d178
+      internalID: 1514850977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e2611d08fa32d45906dbe83f6ce06a
+      internalID: 2056197831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_15
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbdbeec9380c648b63fb08df4cae28
+      internalID: -75858156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_16
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e903666dda77c0f4cba66178adf4e33e
+      internalID: -1552718035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7297b91fe8c019b4eb46687de8981e56
+      internalID: -58535155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831d8e5bad0758479d52fe203db60c8
+      internalID: 1563965060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_19
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aef6324d1c39fe4cbacc4a646168377
+      internalID: 1500158932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_20
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffd1f08874167d43a7ac1c6b8775482
+      internalID: 2131087827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_21
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53d3187c9d5e3e408ebddf7bcdcbbdc
+      internalID: -163596052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_22
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e2467dd2e8a84b88604185cd098cc
+      internalID: 246849339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_23
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ba1a47ba5359f458e73f8828dfe236
+      internalID: 997371459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ed2b1b4483c854fbd0e18e2004827f
+      internalID: 1400929254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c77f12f98404b42b4065d7dab66cad
+      internalID: -554438589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bab95042876d647bcfee36b58d8586
+      internalID: -1871536938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17d68c51dd80a40abba7982f88955e
+      internalID: 436308203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_28
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc07a7f70d2d2a4baa55e77790edfb3
+      internalID: 1169677964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_29
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88845f0f8703f543a939abe70cfa164
+      internalID: 1507169728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcda89dfa91cbd44b9062865b9b4d51c
+      internalID: -2073538595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_31
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e43a71efd450345b8f7725fdfa4d44
+      internalID: 957740354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_32
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d55d26ef3dec9843bb6219c18123d8d
+      internalID: 1955135968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_33
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6dab93fdee309449c36726d4e33205
+      internalID: 2147314729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_34
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b11bb0bb1968004f8a5b31794d42399
+      internalID: 837490689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_35
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839315e4198ff0498de01a8e6b33131
+      internalID: -791142033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d37b88e0cd344eb9d3c9b658ef42e
+      internalID: 1216894345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51622fb1b4597c94282049e8d31d627d
+      internalID: 1775216493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2a9e8c399b5e149a14874abca42014
+      internalID: 1304971332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c495cd5eab9e02b44b32a75a57c4cb40
+      internalID: -133209945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_40
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44681b8ea381dd47bd23c33fba6e9f5
+      internalID: 292536537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_41
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69823440eb5eea46b78b9e674794c37
+      internalID: 976555899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_42
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac47ef2767c96ca4fa564a1a83f11aef
+      internalID: -1063848393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_43
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ee63bfe6ab8c146b551f189b315cbb
+      internalID: 316577897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_44
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832e6610b8696274da9cf1ad54568cd4
+      internalID: -1362319849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_45
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb90b31b7b0342842824046672e2a8f4
+      internalID: -1280915724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_46
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9574758ed19fa454db1c72e808f29fbd
+      internalID: 1361752513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_47
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c61a37a588c9d45bf2bd7847a6761d
+      internalID: 678503149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd73902b05ab14faf2e4d9580fbbb3
+      internalID: 1721828976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d849402e488e274699bb78846bc339c
+      internalID: -355387575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_50
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4472810425dd224f897ca68bf9bce63
+      internalID: -2001593958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7440a0767f36064468d84582c70b07f0
+      internalID: 956741710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_52
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b06731f6a4bad408891b9c8acbde0b
+      internalID: -232092668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_53
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8043a5bde37e848966381c658d3c94
+      internalID: -1243916357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_54
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732f15bf684254948a8cdac87540f6b0
+      internalID: 1626131610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_55
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ebe5ff6123b342ab026d310667a02
+      internalID: 1645266522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_56
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417957aa8daa8446986d1ea71929707
+      internalID: -1357513282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_57
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93689e95fd144b046ad0de87bd566418
+      internalID: -304397537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_58
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1f965924ec2141b1e786384f078f3
+      internalID: -295725719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_59
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 210
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1795a6ebbed3edb4aa95bbd47945d9c0
+      internalID: 203205747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef68dfa82df170439a4f9a31faec651
+      internalID: -2093817536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e552f15ea3d6ee04fbbb55ef5a973a78
+      internalID: 471176690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_62
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66e3087d2915a246b1b59bf18a6ff6f
+      internalID: -1456543365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_63
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726343cf704a9c4488d203853d8b03f0
+      internalID: 1556276775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_64
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b598514037d2443498b98cbc4a328013
+      internalID: -1008534699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_65
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27245f41b8dc7e24fb156ea181788931
+      internalID: -1652358702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_66
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ecc7467f4d0840a6147779f514aeb
+      internalID: 1604158282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotBack_67
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6a9deeed870e84883264f3b756d1bf
+      internalID: 20048658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fb34dcb20c8c62340939823c6e453bf7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":36.0,"y":18.0},"gridSpritePadding":{"x":68.0,"y":66.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PidgeotBack_0: 5435342118472089651
+      PidgeotBack_1: -1843617650
+      PidgeotBack_10: -1805031309
+      PidgeotBack_11: -860493444
+      PidgeotBack_12: -619329325
+      PidgeotBack_13: 1514850977
+      PidgeotBack_14: 2056197831
+      PidgeotBack_15: -75858156
+      PidgeotBack_16: -1552718035
+      PidgeotBack_17: -58535155
+      PidgeotBack_18: 1563965060
+      PidgeotBack_19: 1500158932
+      PidgeotBack_2: 845148353
+      PidgeotBack_20: 2131087827
+      PidgeotBack_21: -163596052
+      PidgeotBack_22: 246849339
+      PidgeotBack_23: 997371459
+      PidgeotBack_24: 1400929254
+      PidgeotBack_25: -554438589
+      PidgeotBack_26: -1871536938
+      PidgeotBack_27: 436308203
+      PidgeotBack_28: 1169677964
+      PidgeotBack_29: 1507169728
+      PidgeotBack_3: 1117581173
+      PidgeotBack_30: -2073538595
+      PidgeotBack_31: 957740354
+      PidgeotBack_32: 1955135968
+      PidgeotBack_33: 2147314729
+      PidgeotBack_34: 837490689
+      PidgeotBack_35: -791142033
+      PidgeotBack_36: 1216894345
+      PidgeotBack_37: 1775216493
+      PidgeotBack_38: 1304971332
+      PidgeotBack_39: -133209945
+      PidgeotBack_4: -946896635
+      PidgeotBack_40: 292536537
+      PidgeotBack_41: 976555899
+      PidgeotBack_42: -1063848393
+      PidgeotBack_43: 316577897
+      PidgeotBack_44: -1362319849
+      PidgeotBack_45: -1280915724
+      PidgeotBack_46: 1361752513
+      PidgeotBack_47: 678503149
+      PidgeotBack_48: 1721828976
+      PidgeotBack_49: -355387575
+      PidgeotBack_5: 213404573
+      PidgeotBack_50: -2001593958
+      PidgeotBack_51: 956741710
+      PidgeotBack_52: -232092668
+      PidgeotBack_53: -1243916357
+      PidgeotBack_54: 1626131610
+      PidgeotBack_55: 1645266522
+      PidgeotBack_56: -1357513282
+      PidgeotBack_57: -304397537
+      PidgeotBack_58: -295725719
+      PidgeotBack_59: 203205747
+      PidgeotBack_6: -1364634369
+      PidgeotBack_60: -2093817536
+      PidgeotBack_61: 471176690
+      PidgeotBack_62: -1456543365
+      PidgeotBack_63: 1556276775
+      PidgeotBack_64: -1008534699
+      PidgeotBack_65: -1652358702
+      PidgeotBack_66: 1604158282
+      PidgeotBack_67: 20048658
+      PidgeotBack_7: 81686228
+      PidgeotBack_8: 1940293452
+      PidgeotBack_9: -1266251043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3031 @@
+fileFormatVersion: 2
+guid: 7e0b1544e2a5ba24fb721c6b12014c1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5098904294142735039
+    second: TyphlosionBack_0
+  - first:
+      213: -8109796288118270339
+    second: TyphlosionBack_1
+  - first:
+      213: -295735679952949028
+    second: TyphlosionBack_2
+  - first:
+      213: -1873408214793457817
+    second: TyphlosionBack_3
+  - first:
+      213: 6352972358272718154
+    second: TyphlosionBack_4
+  - first:
+      213: -7922107513197249241
+    second: TyphlosionBack_5
+  - first:
+      213: -3263077380695036307
+    second: TyphlosionBack_6
+  - first:
+      213: -8599548333484889129
+    second: TyphlosionBack_7
+  - first:
+      213: -3303242000665538682
+    second: TyphlosionBack_8
+  - first:
+      213: 5170101758956971406
+    second: TyphlosionBack_9
+  - first:
+      213: 7940162869588977517
+    second: TyphlosionBack_10
+  - first:
+      213: 437883735434962826
+    second: TyphlosionBack_11
+  - first:
+      213: -4804598727023291537
+    second: TyphlosionBack_12
+  - first:
+      213: -6799480088781720752
+    second: TyphlosionBack_13
+  - first:
+      213: -6198313923092226581
+    second: TyphlosionBack_14
+  - first:
+      213: -2045427138651324990
+    second: TyphlosionBack_15
+  - first:
+      213: 943877834288047007
+    second: TyphlosionBack_16
+  - first:
+      213: -2491281844830367046
+    second: TyphlosionBack_17
+  - first:
+      213: 8554290365947734628
+    second: TyphlosionBack_18
+  - first:
+      213: 3525748189881082417
+    second: TyphlosionBack_19
+  - first:
+      213: -4689251486467976461
+    second: TyphlosionBack_20
+  - first:
+      213: -1510361244512666515
+    second: TyphlosionBack_21
+  - first:
+      213: 3720099402700719188
+    second: TyphlosionBack_22
+  - first:
+      213: 2227440578309707851
+    second: TyphlosionBack_23
+  - first:
+      213: 8261812727773413176
+    second: TyphlosionBack_24
+  - first:
+      213: 206858654302547948
+    second: TyphlosionBack_25
+  - first:
+      213: -9188180302665993288
+    second: TyphlosionBack_26
+  - first:
+      213: -4902026146028247304
+    second: TyphlosionBack_27
+  - first:
+      213: 7195263347574069148
+    second: TyphlosionBack_28
+  - first:
+      213: -942846494503762200
+    second: TyphlosionBack_29
+  - first:
+      213: -3195173654698291091
+    second: TyphlosionBack_30
+  - first:
+      213: 3001197414016030211
+    second: TyphlosionBack_31
+  - first:
+      213: 1397341779324199023
+    second: TyphlosionBack_32
+  - first:
+      213: 5163879206294517908
+    second: TyphlosionBack_33
+  - first:
+      213: -8010457811909511272
+    second: TyphlosionBack_34
+  - first:
+      213: -4962826743876459892
+    second: TyphlosionBack_35
+  - first:
+      213: 830042435227200638
+    second: TyphlosionBack_36
+  - first:
+      213: -7967295231766425829
+    second: TyphlosionBack_37
+  - first:
+      213: 7163036550407047741
+    second: TyphlosionBack_38
+  - first:
+      213: -1264932305828313997
+    second: TyphlosionBack_39
+  - first:
+      213: 6029375674109257028
+    second: TyphlosionBack_40
+  - first:
+      213: -9082254226220659436
+    second: TyphlosionBack_41
+  - first:
+      213: -8329687685669851449
+    second: TyphlosionBack_42
+  - first:
+      213: 7183235567104296699
+    second: TyphlosionBack_43
+  - first:
+      213: -7590319461615107964
+    second: TyphlosionBack_44
+  - first:
+      213: 5089940095095937855
+    second: TyphlosionBack_45
+  - first:
+      213: 3469336981055695191
+    second: TyphlosionBack_46
+  - first:
+      213: -6517186512161061533
+    second: TyphlosionBack_47
+  - first:
+      213: 7811930551172797422
+    second: TyphlosionBack_48
+  - first:
+      213: -5889591144335030463
+    second: TyphlosionBack_49
+  - first:
+      213: 2112580986130064534
+    second: TyphlosionBack_50
+  - first:
+      213: -8204203513861745182
+    second: TyphlosionBack_51
+  - first:
+      213: 5395026292440115824
+    second: TyphlosionBack_52
+  - first:
+      213: 650426923436652664
+    second: TyphlosionBack_53
+  - first:
+      213: 8700864954658286507
+    second: TyphlosionBack_54
+  - first:
+      213: 3533716552153759547
+    second: TyphlosionBack_55
+  - first:
+      213: 2694699858836728798
+    second: TyphlosionBack_56
+  - first:
+      213: 4770669524009584005
+    second: TyphlosionBack_57
+  - first:
+      213: 6241859448537177379
+    second: TyphlosionBack_58
+  - first:
+      213: 4141969208136222754
+    second: TyphlosionBack_59
+  - first:
+      213: -2422264781220423017
+    second: TyphlosionBack_60
+  - first:
+      213: 3590299046329811012
+    second: TyphlosionBack_61
+  - first:
+      213: -6239173137031800241
+    second: TyphlosionBack_62
+  - first:
+      213: -5971799174939566558
+    second: TyphlosionBack_63
+  - first:
+      213: 2121967221875512306
+    second: TyphlosionBack_64
+  - first:
+      213: 5138904923492194626
+    second: TyphlosionBack_65
+  - first:
+      213: 7906303716462815470
+    second: TyphlosionBack_66
+  - first:
+      213: 3677282605677295584
+    second: TyphlosionBack_67
+  - first:
+      213: -1248766588424041355
+    second: TyphlosionBack_68
+  - first:
+      213: -8730088660511361179
+    second: TyphlosionBack_69
+  - first:
+      213: -6410907353060198220
+    second: TyphlosionBack_70
+  - first:
+      213: 3284607421086942493
+    second: TyphlosionBack_71
+  - first:
+      213: 6594988815660131304
+    second: TyphlosionBack_72
+  - first:
+      213: 2404374585469844934
+    second: TyphlosionBack_73
+  - first:
+      213: -619961367846672448
+    second: TyphlosionBack_74
+  - first:
+      213: 5891815366941033839
+    second: TyphlosionBack_75
+  - first:
+      213: -8724242191228788376
+    second: TyphlosionBack_76
+  - first:
+      213: 2098174491220790701
+    second: TyphlosionBack_77
+  - first:
+      213: 7641308985137461010
+    second: TyphlosionBack_78
+  - first:
+      213: -8372741821995068726
+    second: TyphlosionBack_79
+  - first:
+      213: 6117917037506019641
+    second: TyphlosionBack_80
+  - first:
+      213: -1258095928210237288
+    second: TyphlosionBack_81
+  - first:
+      213: 4787723664228113559
+    second: TyphlosionBack_82
+  - first:
+      213: -8586416703829382131
+    second: TyphlosionBack_83
+  - first:
+      213: 1193432517781599775
+    second: TyphlosionBack_84
+  - first:
+      213: 5558487750071202202
+    second: TyphlosionBack_85
+  - first:
+      213: -2553244619567245940
+    second: TyphlosionBack_86
+  - first:
+      213: 2083089153719506606
+    second: TyphlosionBack_87
+  - first:
+      213: 5918687136047729950
+    second: TyphlosionBack_88
+  - first:
+      213: -8044504461355404072
+    second: TyphlosionBack_89
+  - first:
+      213: -4696656234515527127
+    second: TyphlosionBack_90
+  - first:
+      213: 1485819272616336608
+    second: TyphlosionBack_91
+  - first:
+      213: -2228768443660773629
+    second: TyphlosionBack_92
+  - first:
+      213: -5911929844007727213
+    second: TyphlosionBack_93
+  - first:
+      213: -3335954922688430429
+    second: TyphlosionBack_94
+  - first:
+      213: 8679838637736567493
+    second: TyphlosionBack_95
+  - first:
+      213: 7391321209559074732
+    second: TyphlosionBack_96
+  - first:
+      213: -5252070150803813368
+    second: TyphlosionBack_97
+  - first:
+      213: 3536026035930697436
+    second: TyphlosionBack_98
+  - first:
+      213: 2589735622480422237
+    second: TyphlosionBack_99
+  - first:
+      213: -8833687819831622027
+    second: TyphlosionBack_100
+  - first:
+      213: -9173511556780323462
+    second: TyphlosionBack_101
+  - first:
+      213: -2100126692743033126
+    second: TyphlosionBack_102
+  - first:
+      213: -983128373525293578
+    second: TyphlosionBack_103
+  - first:
+      213: -3616811591356992225
+    second: TyphlosionBack_104
+  - first:
+      213: 6646048918379497250
+    second: TyphlosionBack_105
+  - first:
+      213: -4427200848435153136
+    second: TyphlosionBack_106
+  - first:
+      213: -2883570048803262725
+    second: TyphlosionBack_107
+  - first:
+      213: 3051057006960810591
+    second: TyphlosionBack_108
+  - first:
+      213: -542574208973711439
+    second: TyphlosionBack_109
+  - first:
+      213: -5008671555193247324
+    second: TyphlosionBack_110
+  - first:
+      213: -7159223216500514952
+    second: TyphlosionBack_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TyphlosionBack_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2771cb072f2c640800000000000000
+      internalID: 5098904294142735039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e160f5aba8c6ec41824c452bec16459
+      internalID: -399828473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329c3de59ebc8e4badcdf5a46976b14
+      internalID: -238322607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_3
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc7978a815368449933e767a702f709
+      internalID: 1328996583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff5910e6ef740f499143353ce100ae7
+      internalID: -1628934325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_5
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7084e128e414845912859c1b647df9
+      internalID: 1202892389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_6
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7afcafa6ea4e2e4f89fb02a9f9a183f
+      internalID: 916073910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_7
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee797bb5160d3e4ba86b19532762aab
+      internalID: 79950176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f52a29033812645850d9ebe4d852bb
+      internalID: 691737210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_9
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e753af48aff5de049ac488754b8097ce
+      internalID: 1936453557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_10
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583eed3819327441a86038d0f668f4a
+      internalID: 423457680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_11
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1560
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b56f0f52977b542b0d1a0b5a8a3b5a
+      internalID: 1865855419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c10227d2a9ad46afe4bf1136011b6
+      internalID: 1255354464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3942bc48510ece84cac1f65c939186a6
+      internalID: 1280640487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd325d89549c943ac7b3ccbe2aea8e
+      internalID: -980469366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_15
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba505f0b8abd5a47b23c368af4d177a
+      internalID: -1871978417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5cdffd624f8c7459ea59174b3c0bda
+      internalID: -1354637924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_17
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c26279ba4e20154a98c4759a37e5644
+      internalID: -818049492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_18
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d49d3dd49f0b8241b03c3454f52fa7d
+      internalID: -828184157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_19
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29dd38a3d25d84f813d5a482ba81fe
+      internalID: -888436245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_20
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1221251e60a7a4478209e8edcca1ebe
+      internalID: -330100914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_21
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256d242ed297657489400646bb5d7170
+      internalID: -583357348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_22
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160873faa9cd8344a904e9261d52c07
+      internalID: 1194715822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_23
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7160117a8719da748862f1ddb22439ca
+      internalID: -50432232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1d8995da7ac994a963d5dbf684a2f5
+      internalID: 371610890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f50c643e35baf4c8b61b75cccd1ee7
+      internalID: -1141168840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f4ebe07effaf64aaea4aeb065d0813
+      internalID: 1821188387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_27
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6285337a9712384494848577553c819
+      internalID: -551101749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_28
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34797c4edd2682c43a8aaad7c63f66fc
+      internalID: -172467727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab6aff1e07f7a04b9c8512c106c4c79
+      internalID: 546075565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_30
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e4f3ae7026a041ace0c08f39dc32c
+      internalID: -295878108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_31
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee816c122c23a749a632a6ec11435e5
+      internalID: -338941899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_32
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2940749b35ed98c4daa4de701aaea273
+      internalID: 285774473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_33
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34e01ae15a4e04baf65f38a58e2e8b
+      internalID: 286298221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_34
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c6f2d0e1b03745a7445d88f5cbad0
+      internalID: 818975431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_35
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb8f6d7197ca604c9db8cdb458955d3
+      internalID: 1902129890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc01c1170b4a884fa174237e24530a1
+      internalID: 262827617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1359cb8c0eb144da1c3a8fe6ebd180
+      internalID: -1808582922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c747e77c6a731e34dac5fcab691785f6
+      internalID: 2073453077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70df6d772e7c65649a3149c696f847f0
+      internalID: 313516085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_40
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64af7ce0cf180c4abf6aee09b2d0b52
+      internalID: 1908678076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_41
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ebac5c3c681e49b8686e03ee426a6
+      internalID: -534505713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_42
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be1fc054ee79d846a5db4a8b605fbf0
+      internalID: 1182658373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_43
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e782c1f16b66a4eaf6fd542925a072
+      internalID: 1120944122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_44
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba83d3339b2c74f9e93e5dc32770bd
+      internalID: 1501382264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_45
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302bbb6943b29b345bc6e8371340ad5d
+      internalID: -55416213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_46
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5242433805052c489e2ed89383f4d02
+      internalID: -1119375582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_47
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a225396af4b0f4ab95e60a82533c45
+      internalID: -856702849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eace27e46448fe49a8ba64e0bfd3bd9
+      internalID: -178319327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ac80fc40630944993c778b94f0298
+      internalID: 1753602579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e648093b02b51bf40bf458bf20358a55
+      internalID: 2132489012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473bffb6c7929354aa09758b42a7e6e2
+      internalID: 897183694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_52
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29cbd61e010f24484cdfa72d3c9c06
+      internalID: -1610877081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_53
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc75b905f59c2a4192d09384a33ce42
+      internalID: -1401567047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_54
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1a248c839ede44a587b435fafe9fa
+      internalID: -523485683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_55
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16c2907077b70e4280bf4ad4bd3e11e
+      internalID: -928557633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_56
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f37b61b10b807d44a47f4bb54034a85
+      internalID: 301907063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_57
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b878de336f2f24eb7564e9c3d6955c
+      internalID: 327255563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_58
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f7ae97b0b1c24295c5494e37bb3cd
+      internalID: -939491897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_59
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 888
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf9db3e1c01324a9d2d9249676ad31
+      internalID: 1127476769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f21d6d1b35174295bac4f3276d90a
+      internalID: 222737713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f3d31d60d9be246b3e813850ac505c
+      internalID: -2090484916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_62
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c8839cf5750194fa0b1fa174fcb080
+      internalID: -2087880711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_63
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20b895383cb57740acd21eb5def4cbb
+      internalID: -1606590817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_64
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb16a12ccb7ba64ab7c282b3d93407d
+      internalID: 703640111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_65
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a41364a71da7d44b2e639b539c85b8
+      internalID: 1998368120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_66
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf661809f738e1449918006fb18d0861
+      internalID: 1447338654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_67
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b9780e8196f84da7fd07e07b2e1f1
+      internalID: 746415908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_68
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2d8ccd5f2a59438454fee71a66865
+      internalID: 2043074370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_69
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f8dbb0e01a064a9e6b57b38408c7a
+      internalID: -1955384402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_70
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2bb3bde338e35498ebaaae4b8b96bb
+      internalID: 666679187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_71
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 720
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7943c0c207f7143b91480f1c480d49
+      internalID: 157030574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3fdb7d6b8a0e04a91c775a4cf754eb
+      internalID: -870193049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_73
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e668319fd74c4de4e979311d9091eb59
+      internalID: 1974174132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4774cab9ad25343a1e85534618215b
+      internalID: -1008554425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_75
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a24e38b4e1f241b56f5a764cf9f7b
+      internalID: 950881043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_76
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80ee72c17943d4418032022da084858
+      internalID: -658042497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_77
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191b837665db2784d97557eea056c889
+      internalID: 1205116640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_78
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f29b6378ae9e9f4f812249e8780f8d7
+      internalID: 1283466121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_79
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22123b4e8661cd4cb0229a3845ba524
+      internalID: 704165113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_80
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61238201d98ac99459ef9124952d8349
+      internalID: 1594127187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_81
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00319fcd6a8149c4e8bd59114f93cbd4
+      internalID: -693176428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_82
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720cc8e85f016f84d8a9dc0227c094bd
+      internalID: 1120302989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_83
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdebaa8b6fceea4b8c9c15f16287673
+      internalID: -1638559501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c936da055fdfe4992fd5b27669022a
+      internalID: 1331380809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_85
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b30ca76e851554d9a2aec3359797c8
+      internalID: 924523215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_86
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56123cf3cbf08734aa27f82865152982
+      internalID: 1018722785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_87
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039b390500dd2347a264d1ff0df6639
+      internalID: 724304673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_88
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc26695f94f2b458f3ed161ca26d0d
+      internalID: 1183273175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_89
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f61eba67fc4442a4bf57f9b010bb4
+      internalID: 1605006789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_90
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f976196014ad434da29d5041ed97f9b
+      internalID: 2007630674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_91
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3307568ac7770443b5e9b24f5339435
+      internalID: 1740733254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_92
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf63c24b84bb5440a304a2d4ac59e5e
+      internalID: 542257439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_93
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc266c6f8ef7144a773e666e3ca8a6
+      internalID: -1446030033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_94
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c99a994aea71404283cb3cdeb004abe
+      internalID: -1411827315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_95
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 384
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f299386fa0d3e42b44fa074fabd486
+      internalID: 1058890333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba3d7612245294cbdf6822b50900fa
+      internalID: -52621065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_97
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9f849baee0dab40a2282d819c2b332
+      internalID: -13218249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_98
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd08ed133632244f8d8e5c8444faf40
+      internalID: 1153975970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_99
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2309ceec22fb8724ebca9f809ae56222
+      internalID: 603677463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_100
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c8efca42460b9449ad33b9998cb183
+      internalID: 1563092700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_101
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6e86b1ea95974480bcf51d9e974fa
+      internalID: 1160896499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_102
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5033a4fd33bba7a469b40513b48c6425
+      internalID: 494404711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_103
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eb98cc69b88f241b70b729cac36e77
+      internalID: 1823652756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_104
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6372c987eec1d4796436b5c4a9ef3d
+      internalID: 1256705834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_105
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ccc8d1aeb21e47960bb549286f02a
+      internalID: 1391512486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_106
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165dc2e18ae2dd47b7268885927bfdb
+      internalID: 1206535607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_107
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e70f02d31cca75429f3339c95fbaa9b
+      internalID: -557247903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57016dc45770345b10254716401e7e
+      internalID: -280635372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_109
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef8a4c8c9a0904b9756d3a6af1aab1
+      internalID: -1714476497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_110
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5593c3da4e5b4b8d4d895e8315d0b
+      internalID: 687478829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TyphlosionBack_111
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84763a85c92ffdb40bfbe6ca5d9c5be9
+      internalID: -1618877487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8613ba2beee673a498becb0a87c4fed0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":32.0,"y":24.0},"gridSpritePadding":{"x":59.0,"y":72.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TyphlosionBack_0: 5098904294142735039
+      TyphlosionBack_1: -399828473
+      TyphlosionBack_10: 423457680
+      TyphlosionBack_100: 1563092700
+      TyphlosionBack_101: 1160896499
+      TyphlosionBack_102: 494404711
+      TyphlosionBack_103: 1823652756
+      TyphlosionBack_104: 1256705834
+      TyphlosionBack_105: 1391512486
+      TyphlosionBack_106: 1206535607
+      TyphlosionBack_107: -557247903
+      TyphlosionBack_108: -280635372
+      TyphlosionBack_109: -1714476497
+      TyphlosionBack_11: 1865855419
+      TyphlosionBack_110: 687478829
+      TyphlosionBack_111: -1618877487
+      TyphlosionBack_12: 1255354464
+      TyphlosionBack_13: 1280640487
+      TyphlosionBack_14: -980469366
+      TyphlosionBack_15: -1871978417
+      TyphlosionBack_16: -1354637924
+      TyphlosionBack_17: -818049492
+      TyphlosionBack_18: -828184157
+      TyphlosionBack_19: -888436245
+      TyphlosionBack_2: -238322607
+      TyphlosionBack_20: -330100914
+      TyphlosionBack_21: -583357348
+      TyphlosionBack_22: 1194715822
+      TyphlosionBack_23: -50432232
+      TyphlosionBack_24: 371610890
+      TyphlosionBack_25: -1141168840
+      TyphlosionBack_26: 1821188387
+      TyphlosionBack_27: -551101749
+      TyphlosionBack_28: -172467727
+      TyphlosionBack_29: 546075565
+      TyphlosionBack_3: 1328996583
+      TyphlosionBack_30: -295878108
+      TyphlosionBack_31: -338941899
+      TyphlosionBack_32: 285774473
+      TyphlosionBack_33: 286298221
+      TyphlosionBack_34: 818975431
+      TyphlosionBack_35: 1902129890
+      TyphlosionBack_36: 262827617
+      TyphlosionBack_37: -1808582922
+      TyphlosionBack_38: 2073453077
+      TyphlosionBack_39: 313516085
+      TyphlosionBack_4: -1628934325
+      TyphlosionBack_40: 1908678076
+      TyphlosionBack_41: -534505713
+      TyphlosionBack_42: 1182658373
+      TyphlosionBack_43: 1120944122
+      TyphlosionBack_44: 1501382264
+      TyphlosionBack_45: -55416213
+      TyphlosionBack_46: -1119375582
+      TyphlosionBack_47: -856702849
+      TyphlosionBack_48: -178319327
+      TyphlosionBack_49: 1753602579
+      TyphlosionBack_5: 1202892389
+      TyphlosionBack_50: 2132489012
+      TyphlosionBack_51: 897183694
+      TyphlosionBack_52: -1610877081
+      TyphlosionBack_53: -1401567047
+      TyphlosionBack_54: -523485683
+      TyphlosionBack_55: -928557633
+      TyphlosionBack_56: 301907063
+      TyphlosionBack_57: 327255563
+      TyphlosionBack_58: -939491897
+      TyphlosionBack_59: 1127476769
+      TyphlosionBack_6: 916073910
+      TyphlosionBack_60: 222737713
+      TyphlosionBack_61: -2090484916
+      TyphlosionBack_62: -2087880711
+      TyphlosionBack_63: -1606590817
+      TyphlosionBack_64: 703640111
+      TyphlosionBack_65: 1998368120
+      TyphlosionBack_66: 1447338654
+      TyphlosionBack_67: 746415908
+      TyphlosionBack_68: 2043074370
+      TyphlosionBack_69: -1955384402
+      TyphlosionBack_7: 79950176
+      TyphlosionBack_70: 666679187
+      TyphlosionBack_71: 157030574
+      TyphlosionBack_72: -870193049
+      TyphlosionBack_73: 1974174132
+      TyphlosionBack_74: -1008554425
+      TyphlosionBack_75: 950881043
+      TyphlosionBack_76: -658042497
+      TyphlosionBack_77: 1205116640
+      TyphlosionBack_78: 1283466121
+      TyphlosionBack_79: 704165113
+      TyphlosionBack_8: 691737210
+      TyphlosionBack_80: 1594127187
+      TyphlosionBack_81: -693176428
+      TyphlosionBack_82: 1120302989
+      TyphlosionBack_83: -1638559501
+      TyphlosionBack_84: 1331380809
+      TyphlosionBack_85: 924523215
+      TyphlosionBack_86: 1018722785
+      TyphlosionBack_87: 724304673
+      TyphlosionBack_88: 1183273175
+      TyphlosionBack_89: 1605006789
+      TyphlosionBack_9: 1936453557
+      TyphlosionBack_90: 2007630674
+      TyphlosionBack_91: 1740733254
+      TyphlosionBack_92: 542257439
+      TyphlosionBack_93: -1446030033
+      TyphlosionBack_94: -1411827315
+      TyphlosionBack_95: 1058890333
+      TyphlosionBack_96: -52621065
+      TyphlosionBack_97: -13218249
+      TyphlosionBack_98: 1153975970
+      TyphlosionBack_99: 603677463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

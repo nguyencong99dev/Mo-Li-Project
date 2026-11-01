@@ -1,12 +1,15 @@
 using System;
+using System.IO;
 using UnityEngine;
+using System.Collections.Generic;
+using System.Numerics;
 
 public enum GameState { Playing, Paused, Dialog, Cutscene }
 public class ManagerGame : MonoBehaviour
 {
     public static ManagerGame Instance { get; private set; }
     public GameState CurrentState { get; private set; }
-    public event Action<GameState> OnStateChanged;
+    
     private void Awake()
     {
         if (Instance == null)
@@ -30,7 +33,7 @@ public class ManagerGame : MonoBehaviour
         else
             Time.timeScale = 1f;
 
-        OnStateChanged?.Invoke(newState);
         Debug.Log($"Game State changed: {oldState} → {newState}");
     }
+
 }

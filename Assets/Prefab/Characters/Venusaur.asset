@@ -14,9 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DataMember
   ID: member_001
   Name: Venusaur
-  FrontImage: {fileID: -7302140963374641733, guid: e9a7c48c52bd8ce4e88e2f91f5312224, type: 3}
+  FrontImage: {fileID: 1110077748177740592, guid: 7faa9e5b0c42e2e48bb9df40946f059e, type: 3}
   BackImage: {fileID: -1099101913381118676, guid: ec3aa513e029b844a9f44b82e6dbc060, type: 3}
   HPPerLV: 50
   MPPerLV: 50
+  SpeedPerLV: 10
   Skills:
-  - skill_002
+  - skill_attack_001
+  - skill_restore_001
+  - skill_restore_002
+  AnimatorOverrideRef: {fileID: 22100000, guid: fc2054094b2d43c4ea969ae99b32969d, type: 2}

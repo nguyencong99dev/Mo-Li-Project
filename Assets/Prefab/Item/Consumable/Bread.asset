@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dde7f882b5248745b63c36a32ce489c, type: 3}
+  m_Name: Bread
+  m_EditorClassIdentifier: Assembly-CSharp::Consumables
+  itemId: item_consume_bread
+  itemName: Bread
+  description: 
+  image: {fileID: 3265309160090923033, guid: 509cbe1367816bd4ab6e04d0228986f6, type: 3}
+  type: 1
+  maxStack: 64
+  isUnique: 0
+  isDiscardable: 0
+  isSellable: 1
+  buyPrice: 0
+  sellPrice: 0
+  isTradeable: 1
+  usableIn: -1
+  targetType: 0
+  _effects:
+  - {fileID: 11400000, guid: c0bfab130bc9ced43956c610e3aea762, type: 2}

@@ -1,0 +1,6463 @@
+fileFormatVersion: 2
+guid: b0af83246feced243afa13af7e787440
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3833001870171049196
+    second: BlastoiseBack_0
+  - first:
+      213: -5512124962775625361
+    second: BlastoiseBack_1
+  - first:
+      213: 6598298932012958550
+    second: BlastoiseBack_2
+  - first:
+      213: 3824040006753165543
+    second: BlastoiseBack_3
+  - first:
+      213: 2366103223004230886
+    second: BlastoiseBack_4
+  - first:
+      213: 8656319011133527753
+    second: BlastoiseBack_5
+  - first:
+      213: -5000941580466765153
+    second: BlastoiseBack_6
+  - first:
+      213: -2833749920494095496
+    second: BlastoiseBack_7
+  - first:
+      213: -4728109828719504685
+    second: BlastoiseBack_8
+  - first:
+      213: -5631349681617588286
+    second: BlastoiseBack_9
+  - first:
+      213: 4888681897479366496
+    second: BlastoiseBack_10
+  - first:
+      213: -5980977381194095393
+    second: BlastoiseBack_11
+  - first:
+      213: 8839564880864137488
+    second: BlastoiseBack_12
+  - first:
+      213: -9210970408666081999
+    second: BlastoiseBack_13
+  - first:
+      213: -8740969403645099341
+    second: BlastoiseBack_14
+  - first:
+      213: -5889207656481481442
+    second: BlastoiseBack_15
+  - first:
+      213: 2360812204591041160
+    second: BlastoiseBack_16
+  - first:
+      213: -4320773338858737084
+    second: BlastoiseBack_17
+  - first:
+      213: -3260942864744824597
+    second: BlastoiseBack_18
+  - first:
+      213: -5824635335150952773
+    second: BlastoiseBack_19
+  - first:
+      213: -4095380767856451608
+    second: BlastoiseBack_20
+  - first:
+      213: 6674493599079411874
+    second: BlastoiseBack_21
+  - first:
+      213: -6191049174642329825
+    second: BlastoiseBack_22
+  - first:
+      213: 1731339601727077649
+    second: BlastoiseBack_23
+  - first:
+      213: 6655088343709827518
+    second: BlastoiseBack_24
+  - first:
+      213: 5426807365217126016
+    second: BlastoiseBack_25
+  - first:
+      213: -5221424332861588296
+    second: BlastoiseBack_26
+  - first:
+      213: 6553319736314849271
+    second: BlastoiseBack_27
+  - first:
+      213: -6035681949303431074
+    second: BlastoiseBack_28
+  - first:
+      213: 8584939373673213022
+    second: BlastoiseBack_29
+  - first:
+      213: -6807300057169298665
+    second: BlastoiseBack_30
+  - first:
+      213: 5754940924936460579
+    second: BlastoiseBack_31
+  - first:
+      213: 2930269770557580590
+    second: BlastoiseBack_32
+  - first:
+      213: -449568380552332317
+    second: BlastoiseBack_33
+  - first:
+      213: -3074350932603095115
+    second: BlastoiseBack_34
+  - first:
+      213: 4843053107821139428
+    second: BlastoiseBack_35
+  - first:
+      213: -8022633662121589820
+    second: BlastoiseBack_36
+  - first:
+      213: -7674416845504758356
+    second: BlastoiseBack_37
+  - first:
+      213: -5682152567963596613
+    second: BlastoiseBack_38
+  - first:
+      213: 7605368722116867906
+    second: BlastoiseBack_39
+  - first:
+      213: -6849763583838111571
+    second: BlastoiseBack_40
+  - first:
+      213: 2487161677448503347
+    second: BlastoiseBack_41
+  - first:
+      213: 1940099076057309220
+    second: BlastoiseBack_42
+  - first:
+      213: 2471127708677360459
+    second: BlastoiseBack_43
+  - first:
+      213: -7500476131843899356
+    second: BlastoiseBack_44
+  - first:
+      213: -7973980556628639304
+    second: BlastoiseBack_45
+  - first:
+      213: -8555340255945172742
+    second: BlastoiseBack_46
+  - first:
+      213: -1977046759081128288
+    second: BlastoiseBack_47
+  - first:
+      213: 6266660971826726875
+    second: BlastoiseBack_48
+  - first:
+      213: 4342881267651829093
+    second: BlastoiseBack_49
+  - first:
+      213: -2333489346135430254
+    second: BlastoiseBack_50
+  - first:
+      213: -1588838996808267362
+    second: BlastoiseBack_51
+  - first:
+      213: 6792579157308128835
+    second: BlastoiseBack_52
+  - first:
+      213: 5434766214251969483
+    second: BlastoiseBack_53
+  - first:
+      213: -8694364541963185043
+    second: BlastoiseBack_54
+  - first:
+      213: -495674846644748417
+    second: BlastoiseBack_55
+  - first:
+      213: -4093117532272060746
+    second: BlastoiseBack_56
+  - first:
+      213: 5036445691302800067
+    second: BlastoiseBack_57
+  - first:
+      213: -6403874357834388927
+    second: BlastoiseBack_58
+  - first:
+      213: 9010802317945936954
+    second: BlastoiseBack_59
+  - first:
+      213: -260621117534791926
+    second: BlastoiseBack_60
+  - first:
+      213: 2379023471261933987
+    second: BlastoiseBack_61
+  - first:
+      213: -6987494757283255016
+    second: BlastoiseBack_62
+  - first:
+      213: 2311921479728238264
+    second: BlastoiseBack_63
+  - first:
+      213: -1469588028078924817
+    second: BlastoiseBack_64
+  - first:
+      213: -8863831356570231810
+    second: BlastoiseBack_65
+  - first:
+      213: -8272115494968337613
+    second: BlastoiseBack_66
+  - first:
+      213: 4562328636539491255
+    second: BlastoiseBack_67
+  - first:
+      213: 2590373567037445750
+    second: BlastoiseBack_68
+  - first:
+      213: 956694801477878807
+    second: BlastoiseBack_69
+  - first:
+      213: -8658115606200595410
+    second: BlastoiseBack_70
+  - first:
+      213: -8059923076147729196
+    second: BlastoiseBack_71
+  - first:
+      213: -3623573152607982696
+    second: BlastoiseBack_72
+  - first:
+      213: 3134835312919233379
+    second: BlastoiseBack_73
+  - first:
+      213: 7473627045264537035
+    second: BlastoiseBack_74
+  - first:
+      213: 6518701189328399715
+    second: BlastoiseBack_75
+  - first:
+      213: -7292433612825001564
+    second: BlastoiseBack_76
+  - first:
+      213: 6969707421996478490
+    second: BlastoiseBack_77
+  - first:
+      213: -965569417011905337
+    second: BlastoiseBack_78
+  - first:
+      213: 8925008686498433836
+    second: BlastoiseBack_79
+  - first:
+      213: -5670473167817061072
+    second: BlastoiseBack_80
+  - first:
+      213: 6059485126645110699
+    second: BlastoiseBack_81
+  - first:
+      213: -4642867163822191312
+    second: BlastoiseBack_82
+  - first:
+      213: 6218978362005595271
+    second: BlastoiseBack_83
+  - first:
+      213: 8521480564288046307
+    second: BlastoiseBack_84
+  - first:
+      213: -4276825727218703581
+    second: BlastoiseBack_85
+  - first:
+      213: 2386120033083726601
+    second: BlastoiseBack_86
+  - first:
+      213: 961478349312834158
+    second: BlastoiseBack_87
+  - first:
+      213: 4726989357170992968
+    second: BlastoiseBack_88
+  - first:
+      213: 383079393220894894
+    second: BlastoiseBack_89
+  - first:
+      213: 1916674377826994163
+    second: BlastoiseBack_90
+  - first:
+      213: 6427279310886806494
+    second: BlastoiseBack_91
+  - first:
+      213: -6297165828583989177
+    second: BlastoiseBack_92
+  - first:
+      213: 6276461195678162441
+    second: BlastoiseBack_93
+  - first:
+      213: 4921359242118452012
+    second: BlastoiseBack_94
+  - first:
+      213: 693311566701692094
+    second: BlastoiseBack_95
+  - first:
+      213: -1942068243554470931
+    second: BlastoiseBack_96
+  - first:
+      213: -7358658388495258698
+    second: BlastoiseBack_97
+  - first:
+      213: -2657265789336618842
+    second: BlastoiseBack_98
+  - first:
+      213: 7951547393780101517
+    second: BlastoiseBack_99
+  - first:
+      213: -984303308731141072
+    second: BlastoiseBack_100
+  - first:
+      213: 6501533102321532613
+    second: BlastoiseBack_101
+  - first:
+      213: 2330695531100079826
+    second: BlastoiseBack_102
+  - first:
+      213: -5626551025877438008
+    second: BlastoiseBack_103
+  - first:
+      213: -3423208379330313577
+    second: BlastoiseBack_104
+  - first:
+      213: 3042308209584324516
+    second: BlastoiseBack_105
+  - first:
+      213: 5523569652668162560
+    second: BlastoiseBack_106
+  - first:
+      213: -8479181813832957975
+    second: BlastoiseBack_107
+  - first:
+      213: 2253653326454525241
+    second: BlastoiseBack_108
+  - first:
+      213: -3457756601799301860
+    second: BlastoiseBack_109
+  - first:
+      213: 8977640683317228525
+    second: BlastoiseBack_110
+  - first:
+      213: -8234981059772197814
+    second: BlastoiseBack_111
+  - first:
+      213: -2295307232282517706
+    second: BlastoiseBack_112
+  - first:
+      213: 4416761802776227652
+    second: BlastoiseBack_113
+  - first:
+      213: 7145609439375454358
+    second: BlastoiseBack_114
+  - first:
+      213: -3642606458468838966
+    second: BlastoiseBack_115
+  - first:
+      213: -3725667234037547967
+    second: BlastoiseBack_116
+  - first:
+      213: -279557239451970639
+    second: BlastoiseBack_117
+  - first:
+      213: 7395412034920522376
+    second: BlastoiseBack_118
+  - first:
+      213: 2409549427524311383
+    second: BlastoiseBack_119
+  - first:
+      213: 844199328671637394
+    second: BlastoiseBack_120
+  - first:
+      213: -2669833914739570157
+    second: BlastoiseBack_121
+  - first:
+      213: 577915202713313452
+    second: BlastoiseBack_122
+  - first:
+      213: 7698680583490830253
+    second: BlastoiseBack_123
+  - first:
+      213: -1698882442403768768
+    second: BlastoiseBack_124
+  - first:
+      213: -1004317543816729446
+    second: BlastoiseBack_125
+  - first:
+      213: -4128275385271015532
+    second: BlastoiseBack_126
+  - first:
+      213: 5380392801947140475
+    second: BlastoiseBack_127
+  - first:
+      213: 3783121024640396212
+    second: BlastoiseBack_128
+  - first:
+      213: 8484927530724341911
+    second: BlastoiseBack_129
+  - first:
+      213: -7633887515893523521
+    second: BlastoiseBack_130
+  - first:
+      213: -3174181970992653991
+    second: BlastoiseBack_131
+  - first:
+      213: -179295904118212907
+    second: BlastoiseBack_132
+  - first:
+      213: -75854795810955139
+    second: BlastoiseBack_133
+  - first:
+      213: -9063993914809748747
+    second: BlastoiseBack_134
+  - first:
+      213: 4426973167650420159
+    second: BlastoiseBack_135
+  - first:
+      213: 1601338438850803768
+    second: BlastoiseBack_136
+  - first:
+      213: 5187435824274783167
+    second: BlastoiseBack_137
+  - first:
+      213: 6815328795997024685
+    second: BlastoiseBack_138
+  - first:
+      213: -2103205302601973753
+    second: BlastoiseBack_139
+  - first:
+      213: 2594664277505479138
+    second: BlastoiseBack_140
+  - first:
+      213: -7739877547465784974
+    second: BlastoiseBack_141
+  - first:
+      213: 1157343457152113569
+    second: BlastoiseBack_142
+  - first:
+      213: 8585013774878193868
+    second: BlastoiseBack_143
+  - first:
+      213: 4297694214216559869
+    second: BlastoiseBack_144
+  - first:
+      213: 4485943915227637596
+    second: BlastoiseBack_145
+  - first:
+      213: -5148000947807920089
+    second: BlastoiseBack_146
+  - first:
+      213: -7735682926682546312
+    second: BlastoiseBack_147
+  - first:
+      213: 1066583244473896982
+    second: BlastoiseBack_148
+  - first:
+      213: -4050931825019403299
+    second: BlastoiseBack_149
+  - first:
+      213: 5100844659505887701
+    second: BlastoiseBack_150
+  - first:
+      213: -7123949566839263647
+    second: BlastoiseBack_151
+  - first:
+      213: -7747790802832384828
+    second: BlastoiseBack_152
+  - first:
+      213: -2314642609622636443
+    second: BlastoiseBack_153
+  - first:
+      213: 3362576160440539385
+    second: BlastoiseBack_154
+  - first:
+      213: 4909820073090177470
+    second: BlastoiseBack_155
+  - first:
+      213: 7063906615923834764
+    second: BlastoiseBack_156
+  - first:
+      213: -7847291629850335650
+    second: BlastoiseBack_157
+  - first:
+      213: -1876659026433958145
+    second: BlastoiseBack_158
+  - first:
+      213: 5194315446643208190
+    second: BlastoiseBack_159
+  - first:
+      213: -6615383243285553899
+    second: BlastoiseBack_160
+  - first:
+      213: 5764916838257495045
+    second: BlastoiseBack_161
+  - first:
+      213: 4723591435902244164
+    second: BlastoiseBack_162
+  - first:
+      213: 4418985149065941115
+    second: BlastoiseBack_163
+  - first:
+      213: 6949936359390461854
+    second: BlastoiseBack_164
+  - first:
+      213: -6922959603579076179
+    second: BlastoiseBack_165
+  - first:
+      213: 2718430346069943970
+    second: BlastoiseBack_166
+  - first:
+      213: -3437846213773838406
+    second: BlastoiseBack_167
+  - first:
+      213: -6266569342663469142
+    second: BlastoiseBack_168
+  - first:
+      213: 7325896027105919806
+    second: BlastoiseBack_169
+  - first:
+      213: 4167113734354363852
+    second: BlastoiseBack_170
+  - first:
+      213: -8655768309393866337
+    second: BlastoiseBack_171
+  - first:
+      213: 1797402799866561316
+    second: BlastoiseBack_172
+  - first:
+      213: 4769732426490626953
+    second: BlastoiseBack_173
+  - first:
+      213: -5068795666939266876
+    second: BlastoiseBack_174
+  - first:
+      213: 3591390426028792169
+    second: BlastoiseBack_175
+  - first:
+      213: 3065126147228971253
+    second: BlastoiseBack_176
+  - first:
+      213: -689561652508982904
+    second: BlastoiseBack_177
+  - first:
+      213: -5276037504093020057
+    second: BlastoiseBack_178
+  - first:
+      213: -8210838415909756554
+    second: BlastoiseBack_179
+  - first:
+      213: -6028542441860450030
+    second: BlastoiseBack_180
+  - first:
+      213: 9039901204605092812
+    second: BlastoiseBack_181
+  - first:
+      213: 6224070394916941107
+    second: BlastoiseBack_182
+  - first:
+      213: -3865480004646623034
+    second: BlastoiseBack_183
+  - first:
+      213: -7221376722232269056
+    second: BlastoiseBack_184
+  - first:
+      213: 7953775517557413573
+    second: BlastoiseBack_185
+  - first:
+      213: 6444691521737920611
+    second: BlastoiseBack_186
+  - first:
+      213: -6704519142558664903
+    second: BlastoiseBack_187
+  - first:
+      213: 198936549552695825
+    second: BlastoiseBack_188
+  - first:
+      213: 7587106120865451738
+    second: BlastoiseBack_189
+  - first:
+      213: -6579490432032415536
+    second: BlastoiseBack_190
+  - first:
+      213: 5484999838322122454
+    second: BlastoiseBack_191
+  - first:
+      213: -2310617579197629880
+    second: BlastoiseBack_192
+  - first:
+      213: -2659945122252702256
+    second: BlastoiseBack_193
+  - first:
+      213: 1228804176585334887
+    second: BlastoiseBack_194
+  - first:
+      213: -5195439412464305569
+    second: BlastoiseBack_195
+  - first:
+      213: 3171180744529811138
+    second: BlastoiseBack_196
+  - first:
+      213: -607164498783014529
+    second: BlastoiseBack_197
+  - first:
+      213: -4430628566541186284
+    second: BlastoiseBack_198
+  - first:
+      213: -4174401355782744852
+    second: BlastoiseBack_199
+  - first:
+      213: -2030877143710617456
+    second: BlastoiseBack_200
+  - first:
+      213: 1495873189046726001
+    second: BlastoiseBack_201
+  - first:
+      213: 2965470642022842892
+    second: BlastoiseBack_202
+  - first:
+      213: 4495064980252085571
+    second: BlastoiseBack_203
+  - first:
+      213: 509263479350934184
+    second: BlastoiseBack_204
+  - first:
+      213: 2502128657877129887
+    second: BlastoiseBack_205
+  - first:
+      213: -6843414250679610066
+    second: BlastoiseBack_206
+  - first:
+      213: -1260026598258395193
+    second: BlastoiseBack_207
+  - first:
+      213: -5704599044091396461
+    second: BlastoiseBack_208
+  - first:
+      213: -8534069234322604829
+    second: BlastoiseBack_209
+  - first:
+      213: -1077414036660032157
+    second: BlastoiseBack_210
+  - first:
+      213: 2353400449911322425
+    second: BlastoiseBack_211
+  - first:
+      213: 2177537018645175373
+    second: BlastoiseBack_212
+  - first:
+      213: -6092471595832047401
+    second: BlastoiseBack_213
+  - first:
+      213: -3866637172471891952
+    second: BlastoiseBack_214
+  - first:
+      213: -2159039191761571554
+    second: BlastoiseBack_215
+  - first:
+      213: 7198228573197294418
+    second: BlastoiseBack_216
+  - first:
+      213: 1427181615605776638
+    second: BlastoiseBack_217
+  - first:
+      213: 5175681876389775938
+    second: BlastoiseBack_218
+  - first:
+      213: -6084654403737146922
+    second: BlastoiseBack_219
+  - first:
+      213: -3598030609045821834
+    second: BlastoiseBack_220
+  - first:
+      213: -8396619951320985642
+    second: BlastoiseBack_221
+  - first:
+      213: 4193218676452005075
+    second: BlastoiseBack_222
+  - first:
+      213: -6312700817848015950
+    second: BlastoiseBack_223
+  - first:
+      213: 7612178460365354412
+    second: BlastoiseBack_224
+  - first:
+      213: 1359350570582483005
+    second: BlastoiseBack_225
+  - first:
+      213: -7853828785852618885
+    second: BlastoiseBack_226
+  - first:
+      213: -4081747108717456472
+    second: BlastoiseBack_227
+  - first:
+      213: 5668817937012256705
+    second: BlastoiseBack_228
+  - first:
+      213: 1492339981421053444
+    second: BlastoiseBack_229
+  - first:
+      213: -2679336538887273229
+    second: BlastoiseBack_230
+  - first:
+      213: 1547061647447783755
+    second: BlastoiseBack_231
+  - first:
+      213: -94265124794537946
+    second: BlastoiseBack_232
+  - first:
+      213: 3336135555970503744
+    second: BlastoiseBack_233
+  - first:
+      213: -2967379156178245183
+    second: BlastoiseBack_234
+  - first:
+      213: -7771606162613483898
+    second: BlastoiseBack_235
+  - first:
+      213: 3805513537785039628
+    second: BlastoiseBack_236
+  - first:
+      213: -6585057344103749869
+    second: BlastoiseBack_237
+  - first:
+      213: -6316130063602322094
+    second: BlastoiseBack_238
+  - first:
+      213: 1254887418060812535
+    second: BlastoiseBack_239
+  - first:
+      213: 7416341875464371667
+    second: BlastoiseBack_240
+  - first:
+      213: -2191478635413799329
+    second: BlastoiseBack_241
+  - first:
+      213: -6706811014145159845
+    second: BlastoiseBack_242
+  - first:
+      213: 6278986875143261577
+    second: BlastoiseBack_243
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlastoiseBack_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413fb017b117ecac0800000000000000
+      internalID: -3833001870171049196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dad423417487fb4ebb56e46745974e9
+      internalID: -32037577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9823ec1b342a1fe4f90d3eb93baeb5db
+      internalID: 1631313054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65a2f9f7e526544805687f3fc6687f
+      internalID: 748948628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a759a6d714d4c64bad730e1b9648ab7
+      internalID: 481257956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eba447a81e08f348ab54cd3e489bb62
+      internalID: 389974224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7c45323ae27404589576b9b1e29d64
+      internalID: 2013054261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58efd3b3c10f2f742a4ccbdc6a5fda26
+      internalID: 990135801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2f5ee1ef6e98478e57971ecd42799
+      internalID: 1267625029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_9
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda707b8aaf568b4aaafbcb01574c55e
+      internalID: 775798287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f54c1071d569e40b95a314b6226cb1
+      internalID: 1110455477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_11
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c796691d21424e96e94bdbc4a414f
+      internalID: -353112430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b64b4aa3e3654eaf6c8c6b429e498
+      internalID: 245753430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a87d1b8c6f7f24484d9d5872a7c897
+      internalID: -40198286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6d5173e3c42b24c81bb323743d3509
+      internalID: 697972481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641a02c9d06d9b44aa5145ef3867d552
+      internalID: -2065887446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5510a1e6b4cb7b41979892e506a3e37
+      internalID: -36333470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0b8153572fc4f40a012f0e61ae0772
+      internalID: -1758383265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_18
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4f195835e371048b21c852b42b0334
+      internalID: -1169665015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_19
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab7e4de6c832740859296d55e065df
+      internalID: 143739125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_20
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9421ab568c04fd4580d8b3c41f17bb2
+      internalID: 36291631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_21
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64151996adb3ad4fad4979719255981
+      internalID: 83240770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_22
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45730ddd05c8c3b47bf69c5c72a303a8
+      internalID: -111409488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_23
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2502
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d096e7ac86d1e345ae8bb0b26d067f3
+      internalID: 421836975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073168a35d22624a9d79316e007364f
+      internalID: 689417045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c479d7da94e4e4c9ea2e821119cfde
+      internalID: -574984978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e6fd9d60ef18478e0a26c2b4a8a64
+      internalID: -1017647359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3926baefd679458134451b37542cf
+      internalID: 1355190229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3f8f1b8469371499a066e1b2a61322
+      internalID: -412026881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9ef29259aaa1a4ab5620e67511c464
+      internalID: 703127151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_30
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8b75e99923efe49bf8840c633af63d
+      internalID: -1269410988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_31
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dab768a2c5db14b9ca4ab2671d4ab0
+      internalID: -1368297847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_32
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bbca4b51c00ab48a9c77281382bf71
+      internalID: -1396226648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_33
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2722edd21d1ca04c99812485e040aaa
+      internalID: 1563025831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_34
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344687a59792ea9418a9dc0c3c05a0be
+      internalID: -2030484840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_35
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aea4dd96deb7e41905cd08e9edfb29
+      internalID: -1098920177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74b381a7943c9409780d0401ebffcc
+      internalID: 221924942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d05355e8fb2bb4fab722ac845b5b6b
+      internalID: -1943225058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f0c5c34929b9c439288e83d39f67e2
+      internalID: 1710693958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_39
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f36d738e579145a66dbc55d1e2bb8
+      internalID: 60643890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_40
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924f56005b799734f93715e25bdd036c
+      internalID: -607120890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f19d39e5c2634badd5246ffd5e2df
+      internalID: 1580291647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_42
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2899694825244d34ca437a76e254160f
+      internalID: 1954742170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_43
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c845c6215cf4c24eb2c3d3b1ee6873b
+      internalID: 1516440365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_44
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee5415c3424e5488c5fdc6b8c48d0d
+      internalID: -1945305727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_45
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b11845dc3ecb498403b912f50ca74
+      internalID: -1171509245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_46
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d44d39d1483bb4faf88882cf110b51
+      internalID: 295435544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_47
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2242
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee934b926b1c224981cb385c0d249f4
+      internalID: 1109348100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029d75a23283b9644830152def00262f
+      internalID: 178394681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7591d6023738e499ca237384bb714e
+      internalID: -1069107637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_50
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9867bf5c4f73498f675e296cc8585
+      internalID: 304681730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe09c262ed8b214bbd82ecc3179e9d6
+      internalID: -167289894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_52
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07fcf4a60ddf114c91f9f6cb5e1f4e2
+      internalID: 1749600290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_53
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04705ced32bd25458d747622b764edb
+      internalID: -369924724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_54
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b30fba84af1d44295fca651fa69d11
+      internalID: -1128180210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_55
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7182146716907b54887379f0f2cf533f
+      internalID: -4533907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_56
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18acc445c777e0247b9bae049cbe284a
+      internalID: 1067333835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_57
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eee0b82d92da24c9dc7433196dfa51
+      internalID: 1724254825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_58
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3407e42aaa5fd43ae4204e00cff8b0
+      internalID: 704735770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_59
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2112
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4922f88e30cad4f9b920c54dae3d95
+      internalID: 18327203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e07ce94928031040854ad245d9a735a
+      internalID: 421106717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161471ca4f8c7324ca4dfda8e509edda
+      internalID: 1209467147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_62
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996efec40645fec468fa391cdbde1024
+      internalID: 529117318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_63
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c54ad646e550c4aa5bfcc88bf0cd67
+      internalID: 1564836152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_64
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a1ae58fe0e14844ac67598c2e46487
+      internalID: 1535167029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_65
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd09ded8076974da949be293efc2ae
+      internalID: 664893143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_66
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21390153a3a81b447a15d26079c8c974
+      internalID: 1477773532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_67
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64537485773590440a8e147ed4243cad
+      internalID: -949363700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_68
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35579b5539902f847b2a04c1ec48e11b
+      internalID: 814687817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_69
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca1c8061a7243479a08646f797a09e
+      internalID: 556453288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_70
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb04f7345173f1a438f76ab7f705ab8a
+      internalID: -574738158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_71
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bff5f3c83a7b24b87e628328a50651
+      internalID: -359378766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572cae7051148124eaaad97d6964ccec
+      internalID: -1930602012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3945643dd6846044cb42167f92a1bea3
+      internalID: -1789083201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e209f08027a9d3345aed64a0e1aaf7d2
+      internalID: 1038876451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac0a2ea13895094b8e15a7fc841e472
+      internalID: -103278400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_76
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df326b0dbb2c3345a1e97f423efd369
+      internalID: -1873807538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_77
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a697693231f37454fbfd268296454a54
+      internalID: -1040201741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_78
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417c9563f3c0a34cae3bc40d087e4ea
+      internalID: -1282829809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_79
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f4b6c38cc73ab4da32027a540ceba3
+      internalID: -283972449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_80
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcae73b7ac681e4eafe1935ad2e71ba
+      internalID: 631763157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_81
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caccf4578489d334c9a7625194dd861d
+      internalID: -2090135599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_82
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837991c1ebde15c41811d3212465aa5a
+      internalID: 1023625249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_83
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1852
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01f77b7e0f52f47af4414c08b96ae4
+      internalID: -1545054299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a17acf676976c74698d5f20b3dcb41a
+      internalID: 1412796927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_85
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5264e2f159d3a45a860619296888bb
+      internalID: 662156029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca92a7767b45ba4c97c079bcbf5d20e
+      internalID: 1549712114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_87
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3b8873b3ae984ebdeed431a5a14c9
+      internalID: -2111351660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_88
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237cf9361c911c64f94e82058d3dd691
+      internalID: 1613381704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_89
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d9efc9a0be264eb04c745f2e92e4b
+      internalID: -217374414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_90
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc1a6ddd872a549be850faa92c110d
+      internalID: -609602554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_91
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb32051655cbdb4eba38150f04f7a11
+      internalID: -246941345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_92
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dfca6ac6af3684184cd8689e100b9d
+      internalID: -760716103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_93
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3edd08fb3d2db419a87cb143aba19b
+      internalID: -1994662179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_94
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64022ea52966d4eb1852b413fa9e69
+      internalID: -1866055064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_95
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1722
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db172199e97f786439e6f99450b1f5e8
+      internalID: 1016219949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9194cb30e7fe70e4896b31fba898f498
+      internalID: 632422193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_97
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791b28def89a9ad428c8e18aa12bc0b2
+      internalID: 770658756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_98
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4dc93aa7f55d84a8c58d18ba556b24
+      internalID: 1327517147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_99
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf382607ee8324381d9622c3d4b864
+      internalID: -1882492805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_100
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae1d543bb93b4488a11b6fd224c8b2
+      internalID: -1235359578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_101
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851024c91ac94994c98799dff948f390
+      internalID: 1829157722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_102
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443333d007bec2a40a006bb8f0cc2e27
+      internalID: 830151307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_103
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff8d2ced9abf6046866f44f25cc22d3
+      internalID: 2140753852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_104
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3a305158ac94649b99369f82bd4db2
+      internalID: 1124479808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_105
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dfe206ccd15be4f848f9c5a68ffb91
+      internalID: 1768039624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_106
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9c305994a30844fb6cb93b72149695
+      internalID: 1800346650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_107
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1592
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90580984a1c078742974e273685cf53d
+      internalID: -1238491269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb630907c270734fbae71a4b67a3ceb
+      internalID: 1277954848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_109
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d13d1dc7bd063e4ab2fe133ed64fa1a
+      internalID: 948965373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_110
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbc875fc35d2d74497df14bbed75291
+      internalID: 1785656582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_111
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0c1ceed33585a4abcd610baa6355e2
+      internalID: 605211909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_112
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009d8d4b705c8e40a17ccc7c6c59771
+      internalID: -149863035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_113
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830dc0a8df019847bdd279e0e8ee72c
+      internalID: 1244377333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_114
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3d0f1b8bbe0c4299703caea0b59b3
+      internalID: -1363563262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_115
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038491397dd357747b021701bfe08772
+      internalID: -1511532505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_116
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa6616a305a754da40de9ef8c18de6
+      internalID: 788466935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_117
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd1aeffb1989b49b30e16b2f550ae2
+      internalID: 361732491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_118
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c7260cb53ea54fac72aae8d1c031a
+      internalID: -872298304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_119
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1462
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e03fa161e24918498971b03b00c87ca
+      internalID: -473793323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc67163fdf0fd543b08f5f08b3fe912
+      internalID: -1721151274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_121
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2673b0d14f03d4449862602dd190e86
+      internalID: 980427847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_122
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ab38b9f3cd6e943a1900e6f294e68e
+      internalID: -718975884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_123
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a6ab326dc75e34dbd81d0952675ab0
+      internalID: 407356625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_124
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a389e1a03c95041abeb3e4e92f95e7
+      internalID: -890992875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_125
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf386d94c54c4644b16e6b5b604b2cc
+      internalID: -1374038664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_126
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c509c859c3f2a546bf9b41c2230bf1f
+      internalID: 1272485611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_127
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf3f483d90a92f4faa65d1f4f3a8691
+      internalID: 493559521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_128
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f1316e4add1dd4bbbdc32307843fc8
+      internalID: -815494440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_129
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208777d6c970a9542a431a8f3af888ec
+      internalID: -1554684449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_130
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc70dc873b32b794b95c13da73f10f1e
+      internalID: -957420328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_131
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1332
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af2cedd5be7e9745b0bbba6b29631b4
+      internalID: 1196405331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_132
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e557c1d4984d94a9d57ea2f0b441fd
+      internalID: -691634533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_133
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397a0158421af4e48828cee0159f1dfc
+      internalID: -449480350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_134
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f29bff68d3fc44d88a6d1f8efee182
+      internalID: 1281815607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_135
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df595e0a1c6f75c48ba65d9203a9b6d0
+      internalID: -194867664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_136
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212d4c183872554681752ecc4b2f079
+      internalID: -940818380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_137
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858bb49d8a31f94dbc5ee2b10cb0c2a
+      internalID: -1041249945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_138
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865be1dac732a6040a0cc6b574acab5d
+      internalID: -1435916941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_139
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453673581ff8a674298ef6f54c41640a
+      internalID: 2057828483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_140
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a525cc5f3ab648aa6bc57d6faea12
+      internalID: -512643088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_141
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94618cfe4fc4d943bffe49c64712c06
+      internalID: 1543299861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_142
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dda30a7135e534c8c9c66c8d83a3a0
+      internalID: 708154937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_143
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1202
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da1f2bb79ebea8428c856ed02713c36
+      internalID: -306452576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6633da5bc1cce74a8652a94f13b97a1
+      internalID: -667369511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_145
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cff66883109c2348bd240ffee8dfebd
+      internalID: 533341987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_146
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f53745840223489eb29ba25c6de40
+      internalID: -1511662988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_147
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb8bb83f85ae947a048ba0bce957fd
+      internalID: -409258369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_148
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1bca2044fa87749ad3ab4a380ba9dd
+      internalID: -1863015875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_149
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedbd44fc160704469b08c55c0991ea0
+      internalID: 1353348695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_150
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e2bb05d804a0a449650797a536b97f
+      internalID: 1325580575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_151
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b56d36a747a24b449714675698b9333
+      internalID: -856972063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_152
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe82e56ba8347b344a6d34395a4a2a11
+      internalID: -92491432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_153
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296f3e2c507dd2d48a424d68acacdf49
+      internalID: 2076984389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_154
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8522ed13e7b6024585960f55093f799
+      internalID: -2131495743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_155
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1072
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de19d3f84ad586c499b98226339de2be
+      internalID: -686606301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_156
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b5c9226999c75459339381b826ac82
+      internalID: 1522541442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_157
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c185a2664c144f9f548fefd039e60
+      internalID: -1945040046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_158
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef860c125039fc444a924b722c20f220
+      internalID: 1496838405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_159
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dfdab63e859a2499a91199f2a42395
+      internalID: -694940491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_160
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829ee37579c5e054d86a5ae268d46cee
+      internalID: 1405406208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_161
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3de17701812c24d8ee26f2fe8f079e
+      internalID: 127476933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_162
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b566316c0ccab44b455adb0cae13ea
+      internalID: 708336040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_163
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bce2792c01f6b44a0c131495f940b7
+      internalID: -430930716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_164
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe52978afe0634090473617ccab442
+      internalID: 776811518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_165
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a115cbb9e88b42641a7dd74c483a084c
+      internalID: -624993235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_166
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3dcec283e8e7548b6a5563aa71247d
+      internalID: 1202802094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_167
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 942
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9726f9f4e169b941938ecfcf46e2b97
+      internalID: -656879331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_168
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6be3542dbe8904185d42703b4fe0de
+      internalID: 414926154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_169
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09688dbe456ee274ebee95ce73759253
+      internalID: -657948107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_170
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae528b438a1a2242a8d9d85b614c3b8
+      internalID: 1206911243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_171
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e0131aed4e1844e9687598cf2ce6b9
+      internalID: -1911312103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_172
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4fd4cd0cae3b64a9eb9bfd75da8d4b
+      internalID: -1069981657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_173
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf0d3d5ad3f3ae4f814945b93feb89d
+      internalID: -533687983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_174
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70fec70901164a49b8151639414aaf9
+      internalID: 918377883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_175
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e7a8c01ad040a43a2099b19e2def1d
+      internalID: 140907952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_176
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d5307f4b996745b5254129ffcd043
+      internalID: -995149894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_177
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61b1485a2c0a7442a79b442b7ac665d
+      internalID: -1219001811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_178
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b692952acd83458c54f29aa34b4ee
+      internalID: -457508304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_179
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 812
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c38c6d954f2474aaf62ae85e0b8f66
+      internalID: 453430610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_180
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac26416d5f5d54b8df1df85fa67fb7
+      internalID: 575632303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_181
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c66d24effc101f47990a5270c1422b2
+      internalID: -1858321652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_182
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb332d55b79be44c92e75d901cfab11
+      internalID: -1463833943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_183
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f31c6fd6966a54199d9c113ab82840
+      internalID: -657222029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_184
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1580b29783d1c49908bc48b7c8d1f0
+      internalID: -1673005001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_185
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac389b084342a134595ca6f1eb524afd
+      internalID: 1139699025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_186
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c3ffba1351ab143a6a1a2cc4b8794a
+      internalID: -476248575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_187
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4298bc6cd35d347852b74df20ec4e0
+      internalID: 37216791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_188
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1880802d150505f4eb94dc97fb0bdc2a
+      internalID: 1953900117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_189
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c4ba3d66447b142be189a9d11991bb
+      internalID: -2039982235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_190
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90725487b4f8602449a3e39dd9c7506f
+      internalID: -1609977833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_191
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 682
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b79dac8f85e5104789498689f7ada20
+      internalID: -1000279212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_192
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcaaf2494d90954c8a343a719257e01
+      internalID: -549790874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_193
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aeb6bc0dc69c1449fc8ea322552bfd
+      internalID: 1767659325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_194
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4941b5be2720a54d8c94acc69c8d4df
+      internalID: 1262051499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_195
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9fe983ad3aa79429efbfa33cbdeae5
+      internalID: 625862754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_196
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea63b85c060c64e972621048ab89c3
+      internalID: 1622441467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_197
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca43fa52f98d09c49ad57f68f26f9f11
+      internalID: -1962299335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_198
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d757b3ef4639954a923b9fb280a9fbc
+      internalID: -14614918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_199
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb72f079ee5e1c48b66b81020c052aa
+      internalID: 1533229697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_200
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6e0d2413af984cbc45bb6a194d45a
+      internalID: 182910999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_201
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a0514d5a7ad5642b3e01868f1bccc0
+      internalID: 542040718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_202
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becdeac2c7948e94b8d84b16ef89c874
+      internalID: -1145714382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_203
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09e498829f5e5c428aa92f14e4bd43b
+      internalID: -1361213891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_204
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bc19988a215a34ebb57b4a004a0669
+      internalID: -125215616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_205
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fafb6e43233f94c9b3651433086ad8
+      internalID: -1913383647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_206
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe7178af444d74e94941e4c8700c40
+      internalID: 851115859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_207
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d99eb90e7a09d419225e8327b2bc4d
+      internalID: -1173491226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_208
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f87cf5ce5dafdb44a655f3f3b025bc9
+      internalID: -1402758360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_209
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae440e324fb907e4792789c671303ebf
+      internalID: -526618014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_210
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0286e06dd443a42bb330fa6b99e24a
+      internalID: 879544550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_211
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1780f8f65158da46804328cbd4bbfae
+      internalID: 544330559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_212
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be908e519c630641b08150ed94ced53
+      internalID: 1863405812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_213
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405fafd812c9bef43ab0cb1dc1299a14
+      internalID: 147264406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_214
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cededcd853c2bc5439b0916551907232
+      internalID: 329096699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_215
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 422
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3861896727be47a558a183e7a88a6
+      internalID: -679140743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_216
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6851248e7dbb4aa74f502bb6e8e66
+      internalID: -1105862713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_217
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249780c08fb291a448919d8989b43563
+      internalID: 1139247934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_218
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b007dce19bfc4296cfb7d8cd49e49
+      internalID: -995342412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_219
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e813e71b80aa7f468d14ac42fd82189
+      internalID: -1261880179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_220
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173fe983b989eef4289d41b4f055c735
+      internalID: 1438082803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_221
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afbbb0b1e4e57e409b47c3f510e26d8
+      internalID: 173575842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_222
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3e55586c97e747a2d7649cfa3cde3
+      internalID: -1076941766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_223
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8dbdf079ada63438410412fd398ec2
+      internalID: 1770401054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_224
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca2775a09e7c74a854e39eedf6760d
+      internalID: 1114566992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_225
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f7aa0ec757e844790db8f829c671f2
+      internalID: 1104076559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_226
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4797c39f861cda947b8fe0ac6cb74c8c
+      internalID: -4797207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_227
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 292
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1f0446afef7a4daf04399c2ac00b2
+      internalID: -716209947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_228
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ad61a912e165144a62b59ef0041d33
+      internalID: 756618016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_229
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2805b1200560404981adcc087c70be6
+      internalID: 1936857401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_230
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4da97fe720b1b84abdd704616354bc8
+      internalID: -1773401481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_231
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4121bdb7006688a42ad0eb3d69f91ef3
+      internalID: -101702904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_232
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f245921d06e034f89152473a377a6c
+      internalID: -496019680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_233
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34690a32751485f4d9956f9337d34e27
+      internalID: 2112905082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_234
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cafcd101b6c313499e451658a19fc57
+      internalID: 68774067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_235
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f33abfb7d91ec249be7427270ad1d32
+      internalID: 1496978933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_236
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8ed58e3c17070448ef4f20e0853429
+      internalID: 1715064619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_237
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d33906c99695447a958630c3b27fdf
+      internalID: 1135190451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_238
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d96f63191683d648b2f442827382529
+      internalID: -21389313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_239
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 162
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a4a872b17a55d47bb86af531f79649
+      internalID: 304586071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_240
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056ec603649be04f8726ad915180286
+      internalID: -1123875962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_241
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3cf00c49db2d4881370d6f692e350
+      internalID: -1553109145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_242
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7457efb1b5e6c429e3a544f0445473
+      internalID: -353958262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlastoiseBack_243
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018270cd29876247a1242370447a534
+      internalID: -428395849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da314764592e45e4aa90a4f4126d922c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":16.0,"y":2.0},"gridSpritePadding":{"x":34.0,"y":34.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BlastoiseBack_0: -3833001870171049196
+      BlastoiseBack_1: -32037577
+      BlastoiseBack_10: 1110455477
+      BlastoiseBack_100: -1235359578
+      BlastoiseBack_101: 1829157722
+      BlastoiseBack_102: 830151307
+      BlastoiseBack_103: 2140753852
+      BlastoiseBack_104: 1124479808
+      BlastoiseBack_105: 1768039624
+      BlastoiseBack_106: 1800346650
+      BlastoiseBack_107: -1238491269
+      BlastoiseBack_108: 1277954848
+      BlastoiseBack_109: 948965373
+      BlastoiseBack_11: -353112430
+      BlastoiseBack_110: 1785656582
+      BlastoiseBack_111: 605211909
+      BlastoiseBack_112: -149863035
+      BlastoiseBack_113: 1244377333
+      BlastoiseBack_114: -1363563262
+      BlastoiseBack_115: -1511532505
+      BlastoiseBack_116: 788466935
+      BlastoiseBack_117: 361732491
+      BlastoiseBack_118: -872298304
+      BlastoiseBack_119: -473793323
+      BlastoiseBack_12: 245753430
+      BlastoiseBack_120: -1721151274
+      BlastoiseBack_121: 980427847
+      BlastoiseBack_122: -718975884
+      BlastoiseBack_123: 407356625
+      BlastoiseBack_124: -890992875
+      BlastoiseBack_125: -1374038664
+      BlastoiseBack_126: 1272485611
+      BlastoiseBack_127: 493559521
+      BlastoiseBack_128: -815494440
+      BlastoiseBack_129: -1554684449
+      BlastoiseBack_13: -40198286
+      BlastoiseBack_130: -957420328
+      BlastoiseBack_131: 1196405331
+      BlastoiseBack_132: -691634533
+      BlastoiseBack_133: -449480350
+      BlastoiseBack_134: 1281815607
+      BlastoiseBack_135: -194867664
+      BlastoiseBack_136: -940818380
+      BlastoiseBack_137: -1041249945
+      BlastoiseBack_138: -1435916941
+      BlastoiseBack_139: 2057828483
+      BlastoiseBack_14: 697972481
+      BlastoiseBack_140: -512643088
+      BlastoiseBack_141: 1543299861
+      BlastoiseBack_142: 708154937
+      BlastoiseBack_143: -306452576
+      BlastoiseBack_144: -667369511
+      BlastoiseBack_145: 533341987
+      BlastoiseBack_146: -1511662988
+      BlastoiseBack_147: -409258369
+      BlastoiseBack_148: -1863015875
+      BlastoiseBack_149: 1353348695
+      BlastoiseBack_15: -2065887446
+      BlastoiseBack_150: 1325580575
+      BlastoiseBack_151: -856972063
+      BlastoiseBack_152: -92491432
+      BlastoiseBack_153: 2076984389
+      BlastoiseBack_154: -2131495743
+      BlastoiseBack_155: -686606301
+      BlastoiseBack_156: 1522541442
+      BlastoiseBack_157: -1945040046
+      BlastoiseBack_158: 1496838405
+      BlastoiseBack_159: -694940491
+      BlastoiseBack_16: -36333470
+      BlastoiseBack_160: 1405406208
+      BlastoiseBack_161: 127476933
+      BlastoiseBack_162: 708336040
+      BlastoiseBack_163: -430930716
+      BlastoiseBack_164: 776811518
+      BlastoiseBack_165: -624993235
+      BlastoiseBack_166: 1202802094
+      BlastoiseBack_167: -656879331
+      BlastoiseBack_168: 414926154
+      BlastoiseBack_169: -657948107
+      BlastoiseBack_17: -1758383265
+      BlastoiseBack_170: 1206911243
+      BlastoiseBack_171: -1911312103
+      BlastoiseBack_172: -1069981657
+      BlastoiseBack_173: -533687983
+      BlastoiseBack_174: 918377883
+      BlastoiseBack_175: 140907952
+      BlastoiseBack_176: -995149894
+      BlastoiseBack_177: -1219001811
+      BlastoiseBack_178: -457508304
+      BlastoiseBack_179: 453430610
+      BlastoiseBack_18: -1169665015
+      BlastoiseBack_180: 575632303
+      BlastoiseBack_181: -1858321652
+      BlastoiseBack_182: -1463833943
+      BlastoiseBack_183: -657222029
+      BlastoiseBack_184: -1673005001
+      BlastoiseBack_185: 1139699025
+      BlastoiseBack_186: -476248575
+      BlastoiseBack_187: 37216791
+      BlastoiseBack_188: 1953900117
+      BlastoiseBack_189: -2039982235
+      BlastoiseBack_19: 143739125
+      BlastoiseBack_190: -1609977833
+      BlastoiseBack_191: -1000279212
+      BlastoiseBack_192: -549790874
+      BlastoiseBack_193: 1767659325
+      BlastoiseBack_194: 1262051499
+      BlastoiseBack_195: 625862754
+      BlastoiseBack_196: 1622441467
+      BlastoiseBack_197: -1962299335
+      BlastoiseBack_198: -14614918
+      BlastoiseBack_199: 1533229697
+      BlastoiseBack_2: 1631313054
+      BlastoiseBack_20: 36291631
+      BlastoiseBack_200: 182910999
+      BlastoiseBack_201: 542040718
+      BlastoiseBack_202: -1145714382
+      BlastoiseBack_203: -1361213891
+      BlastoiseBack_204: -125215616
+      BlastoiseBack_205: -1913383647
+      BlastoiseBack_206: 851115859
+      BlastoiseBack_207: -1173491226
+      BlastoiseBack_208: -1402758360
+      BlastoiseBack_209: -526618014
+      BlastoiseBack_21: 83240770
+      BlastoiseBack_210: 879544550
+      BlastoiseBack_211: 544330559
+      BlastoiseBack_212: 1863405812
+      BlastoiseBack_213: 147264406
+      BlastoiseBack_214: 329096699
+      BlastoiseBack_215: -679140743
+      BlastoiseBack_216: -1105862713
+      BlastoiseBack_217: 1139247934
+      BlastoiseBack_218: -995342412
+      BlastoiseBack_219: -1261880179
+      BlastoiseBack_22: -111409488
+      BlastoiseBack_220: 1438082803
+      BlastoiseBack_221: 173575842
+      BlastoiseBack_222: -1076941766
+      BlastoiseBack_223: 1770401054
+      BlastoiseBack_224: 1114566992
+      BlastoiseBack_225: 1104076559
+      BlastoiseBack_226: -4797207
+      BlastoiseBack_227: -716209947
+      BlastoiseBack_228: 756618016
+      BlastoiseBack_229: 1936857401
+      BlastoiseBack_23: 421836975
+      BlastoiseBack_230: -1773401481
+      BlastoiseBack_231: -101702904
+      BlastoiseBack_232: -496019680
+      BlastoiseBack_233: 2112905082
+      BlastoiseBack_234: 68774067
+      BlastoiseBack_235: 1496978933
+      BlastoiseBack_236: 1715064619
+      BlastoiseBack_237: 1135190451
+      BlastoiseBack_238: -21389313
+      BlastoiseBack_239: 304586071
+      BlastoiseBack_24: 689417045
+      BlastoiseBack_240: -1123875962
+      BlastoiseBack_241: -1553109145
+      BlastoiseBack_242: -353958262
+      BlastoiseBack_243: -428395849
+      BlastoiseBack_25: -574984978
+      BlastoiseBack_26: -1017647359
+      BlastoiseBack_27: 1355190229
+      BlastoiseBack_28: -412026881
+      BlastoiseBack_29: 703127151
+      BlastoiseBack_3: 748948628
+      BlastoiseBack_30: -1269410988
+      BlastoiseBack_31: -1368297847
+      BlastoiseBack_32: -1396226648
+      BlastoiseBack_33: 1563025831
+      BlastoiseBack_34: -2030484840
+      BlastoiseBack_35: -1098920177
+      BlastoiseBack_36: 221924942
+      BlastoiseBack_37: -1943225058
+      BlastoiseBack_38: 1710693958
+      BlastoiseBack_39: 60643890
+      BlastoiseBack_4: 481257956
+      BlastoiseBack_40: -607120890
+      BlastoiseBack_41: 1580291647
+      BlastoiseBack_42: 1954742170
+      BlastoiseBack_43: 1516440365
+      BlastoiseBack_44: -1945305727
+      BlastoiseBack_45: -1171509245
+      BlastoiseBack_46: 295435544
+      BlastoiseBack_47: 1109348100
+      BlastoiseBack_48: 178394681
+      BlastoiseBack_49: -1069107637
+      BlastoiseBack_5: 389974224
+      BlastoiseBack_50: 304681730
+      BlastoiseBack_51: -167289894
+      BlastoiseBack_52: 1749600290
+      BlastoiseBack_53: -369924724
+      BlastoiseBack_54: -1128180210
+      BlastoiseBack_55: -4533907
+      BlastoiseBack_56: 1067333835
+      BlastoiseBack_57: 1724254825
+      BlastoiseBack_58: 704735770
+      BlastoiseBack_59: 18327203
+      BlastoiseBack_6: 2013054261
+      BlastoiseBack_60: 421106717
+      BlastoiseBack_61: 1209467147
+      BlastoiseBack_62: 529117318
+      BlastoiseBack_63: 1564836152
+      BlastoiseBack_64: 1535167029
+      BlastoiseBack_65: 664893143
+      BlastoiseBack_66: 1477773532
+      BlastoiseBack_67: -949363700
+      BlastoiseBack_68: 814687817
+      BlastoiseBack_69: 556453288
+      BlastoiseBack_7: 990135801
+      BlastoiseBack_70: -574738158
+      BlastoiseBack_71: -359378766
+      BlastoiseBack_72: -1930602012
+      BlastoiseBack_73: -1789083201
+      BlastoiseBack_74: 1038876451
+      BlastoiseBack_75: -103278400
+      BlastoiseBack_76: -1873807538
+      BlastoiseBack_77: -1040201741
+      BlastoiseBack_78: -1282829809
+      BlastoiseBack_79: -283972449
+      BlastoiseBack_8: 1267625029
+      BlastoiseBack_80: 631763157
+      BlastoiseBack_81: -2090135599
+      BlastoiseBack_82: 1023625249
+      BlastoiseBack_83: -1545054299
+      BlastoiseBack_84: 1412796927
+      BlastoiseBack_85: 662156029
+      BlastoiseBack_86: 1549712114
+      BlastoiseBack_87: -2111351660
+      BlastoiseBack_88: 1613381704
+      BlastoiseBack_89: -217374414
+      BlastoiseBack_9: 775798287
+      BlastoiseBack_90: -609602554
+      BlastoiseBack_91: -246941345
+      BlastoiseBack_92: -760716103
+      BlastoiseBack_93: -1994662179
+      BlastoiseBack_94: -1866055064
+      BlastoiseBack_95: 1016219949
+      BlastoiseBack_96: 632422193
+      BlastoiseBack_97: 770658756
+      BlastoiseBack_98: 1327517147
+      BlastoiseBack_99: -1882492805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

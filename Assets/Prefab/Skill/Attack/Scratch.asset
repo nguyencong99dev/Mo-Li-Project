@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a56ab98b80f8f74eab1616529dc4271, type: 3}
+  m_Name: Scratch
+  m_EditorClassIdentifier: Assembly-CSharp::SOSkill
+  ID: attack_skill_scratch
+  Name: Scratch
+  Image: {fileID: 3079554429613082411, guid: 509cbe1367816bd4ab6e04d0228986f6, type: 3}
+  mpCost: 40
+  skillType: 0
+  targetType: 0
+  AnimationClip: {fileID: 7400000, guid: 6b2187d850b9d5d47a30904c244405c2, type: 2}
+  _effects:
+  - rid: 8448105973971943885
+  - rid: 8448105973971943887
+  references:
+    version: 2
+    RefIds:
+    - rid: 8448105973971943885
+      type: {class: EffectContext, ns: , asm: Assembly-CSharp}
+      data:
+        Effect: {fileID: 11400000, guid: d3291f09c43e6c4449d9671d4a9bd208, type: 2}
+        payload:
+          rid: 8448105973971943886
+    - rid: 8448105973971943886
+      type: {class: DamagePayload, ns: , asm: Assembly-CSharp}
+      data:
+        damage: 100
+    - rid: 8448105973971943887
+      type: {class: EffectContext, ns: , asm: Assembly-CSharp}
+      data:
+        Effect: {fileID: 11400000, guid: 9b35c9b533424694cbdbd6af31edc8a1, type: 2}
+        payload:
+          rid: 8448105973971943888
+    - rid: 8448105973971943888
+      type: {class: DPTPayload, ns: , asm: Assembly-CSharp}
+      data:
+        duration: 2
+        damagePerTurn: 20
+        canHitPercent: 50

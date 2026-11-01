@@ -14,9 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DataMember
   ID: member_004
   Name: Feraligatr
-  FrontImage: {fileID: -8004206214208056702, guid: 34079ad26bb342b489b1b82f1ac60c92, type: 3}
+  FrontImage: {fileID: -2974279295290541628, guid: af400fa056708974cbde0f510ed92d19, type: 3}
   BackImage: {fileID: -6215746542147569230, guid: 3453f4b450eb4464a90f953d8e7653eb, type: 3}
   HPPerLV: 50
   MPPerLV: 50
+  SpeedPerLV: 10
   Skills:
-  - skill_002
+  - {fileID: 11400000, guid: c83e3b42f2824964c8c6b7b1a3f3d2d4, type: 2}
+  - {fileID: 11400000, guid: f9198b9b61c8b0944bbd3a217498715a, type: 2}
+  - {fileID: 11400000, guid: 0a469994731deb841b714a786104f3b5, type: 2}
+  AnimatorOverrideRef: {fileID: 22100000, guid: 0e0edca6f3209284aac2f3c2853ab583, type: 2}

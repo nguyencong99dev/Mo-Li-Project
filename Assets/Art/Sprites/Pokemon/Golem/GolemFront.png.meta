@@ -1,0 +1,2485 @@
+fileFormatVersion: 2
+guid: f2c47d3d5ae938140a997a5fbbb4da0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8007804262640725550
+    second: GolemFront_0
+  - first:
+      213: 1979807577517616501
+    second: GolemFront_1
+  - first:
+      213: 7378666422145669009
+    second: GolemFront_2
+  - first:
+      213: -1106477260513782179
+    second: GolemFront_3
+  - first:
+      213: 2964285769134315512
+    second: GolemFront_4
+  - first:
+      213: 7298801214565703753
+    second: GolemFront_5
+  - first:
+      213: 7044294362643906928
+    second: GolemFront_6
+  - first:
+      213: -3904729430551699396
+    second: GolemFront_7
+  - first:
+      213: 78025216085842318
+    second: GolemFront_8
+  - first:
+      213: -7328630686402120463
+    second: GolemFront_9
+  - first:
+      213: 764627853343892129
+    second: GolemFront_10
+  - first:
+      213: 3042102102117241994
+    second: GolemFront_11
+  - first:
+      213: -3561392001979306972
+    second: GolemFront_12
+  - first:
+      213: -6628499214467072995
+    second: GolemFront_13
+  - first:
+      213: -602235483699201489
+    second: GolemFront_14
+  - first:
+      213: 2972325136451031546
+    second: GolemFront_15
+  - first:
+      213: 4996875817028884553
+    second: GolemFront_16
+  - first:
+      213: -7151496536186636648
+    second: GolemFront_17
+  - first:
+      213: 1348746021024824362
+    second: GolemFront_18
+  - first:
+      213: -7235332978964886488
+    second: GolemFront_19
+  - first:
+      213: -1131743589954081807
+    second: GolemFront_20
+  - first:
+      213: 1833823775083613360
+    second: GolemFront_21
+  - first:
+      213: -1673662064354286457
+    second: GolemFront_22
+  - first:
+      213: 2424301105182207066
+    second: GolemFront_23
+  - first:
+      213: 9159117041701297679
+    second: GolemFront_24
+  - first:
+      213: 3259706327422113136
+    second: GolemFront_25
+  - first:
+      213: -7104998738561257182
+    second: GolemFront_26
+  - first:
+      213: 1644933101096763151
+    second: GolemFront_27
+  - first:
+      213: 5837946922491113845
+    second: GolemFront_28
+  - first:
+      213: 8927511603910191848
+    second: GolemFront_29
+  - first:
+      213: 5276021082523402535
+    second: GolemFront_30
+  - first:
+      213: -3102560642054388881
+    second: GolemFront_31
+  - first:
+      213: 851860760829438809
+    second: GolemFront_32
+  - first:
+      213: 8343963855468572194
+    second: GolemFront_33
+  - first:
+      213: 4986354298186708715
+    second: GolemFront_34
+  - first:
+      213: 2008013825706429148
+    second: GolemFront_35
+  - first:
+      213: 7895565291387784837
+    second: GolemFront_36
+  - first:
+      213: 3138708971329879449
+    second: GolemFront_37
+  - first:
+      213: 5142036265619368418
+    second: GolemFront_38
+  - first:
+      213: 5342204748252783143
+    second: GolemFront_39
+  - first:
+      213: 2952425946478500160
+    second: GolemFront_40
+  - first:
+      213: 5134159435927086505
+    second: GolemFront_41
+  - first:
+      213: -6366566924962819563
+    second: GolemFront_42
+  - first:
+      213: 4532151969973426391
+    second: GolemFront_43
+  - first:
+      213: -5781629514309976909
+    second: GolemFront_44
+  - first:
+      213: -3827207878380509662
+    second: GolemFront_45
+  - first:
+      213: -3129379036942436133
+    second: GolemFront_46
+  - first:
+      213: -4881193332629336581
+    second: GolemFront_47
+  - first:
+      213: 227935631653714720
+    second: GolemFront_48
+  - first:
+      213: 1901374021411882981
+    second: GolemFront_49
+  - first:
+      213: 942360948355960610
+    second: GolemFront_50
+  - first:
+      213: 837339621160402611
+    second: GolemFront_51
+  - first:
+      213: -2131807253409719580
+    second: GolemFront_52
+  - first:
+      213: -166436969822740597
+    second: GolemFront_53
+  - first:
+      213: -3325043196899715776
+    second: GolemFront_54
+  - first:
+      213: 5165493123623880440
+    second: GolemFront_55
+  - first:
+      213: -4631904678571475717
+    second: GolemFront_56
+  - first:
+      213: -5880422388821171492
+    second: GolemFront_57
+  - first:
+      213: 9211880220660470627
+    second: GolemFront_58
+  - first:
+      213: 560159717185029916
+    second: GolemFront_59
+  - first:
+      213: 1804391752268409747
+    second: GolemFront_60
+  - first:
+      213: 2888746837629227127
+    second: GolemFront_61
+  - first:
+      213: 5676303524913506997
+    second: GolemFront_62
+  - first:
+      213: -4121624623451719107
+    second: GolemFront_63
+  - first:
+      213: -7469306424761779555
+    second: GolemFront_64
+  - first:
+      213: 9154459294584313117
+    second: GolemFront_65
+  - first:
+      213: -43293475202687219
+    second: GolemFront_66
+  - first:
+      213: -4958947449185710931
+    second: GolemFront_67
+  - first:
+      213: 4004161011450607480
+    second: GolemFront_68
+  - first:
+      213: 7821235996741092235
+    second: GolemFront_69
+  - first:
+      213: 2414203910960715574
+    second: GolemFront_70
+  - first:
+      213: -7376940574478415101
+    second: GolemFront_71
+  - first:
+      213: 1306368984432206381
+    second: GolemFront_72
+  - first:
+      213: -5507584185348234198
+    second: GolemFront_73
+  - first:
+      213: 1236988459167307837
+    second: GolemFront_74
+  - first:
+      213: 6900615498614366991
+    second: GolemFront_75
+  - first:
+      213: 7135933651471771479
+    second: GolemFront_76
+  - first:
+      213: -3799552320579454049
+    second: GolemFront_77
+  - first:
+      213: 3825224275982495974
+    second: GolemFront_78
+  - first:
+      213: -2783311185696286462
+    second: GolemFront_79
+  - first:
+      213: -738815046559531746
+    second: GolemFront_80
+  - first:
+      213: 469335144126740503
+    second: GolemFront_81
+  - first:
+      213: 6579215818478247179
+    second: GolemFront_82
+  - first:
+      213: 4256674964364757716
+    second: GolemFront_83
+  - first:
+      213: -112300700757244823
+    second: GolemFront_84
+  - first:
+      213: -5677930104730112186
+    second: GolemFront_85
+  - first:
+      213: -7746325704514699909
+    second: GolemFront_86
+  - first:
+      213: -8004101384975744669
+    second: GolemFront_87
+  - first:
+      213: -4392354149740844194
+    second: GolemFront_88
+  - first:
+      213: 7224365558980919825
+    second: GolemFront_89
+  - first:
+      213: -5530408394019151929
+    second: GolemFront_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GolemFront_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e2f89bc8f612f60800000000000000
+      internalID: 8007804262640725550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e23118cf32cdd54bb801d891aa7736c
+      internalID: -1078039471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f206309fde1142149ac44f7c4e8e6b37
+      internalID: -1580136713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a20f9e647a5fb41bf9ab4382add965
+      internalID: -394856616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d92a66b9a843d42aa232a4791a5823
+      internalID: -2119408424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_5
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef8b7c011f8b204cbcf40e5bd83dae9
+      internalID: -872417429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_6
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bfbe65584a4ad4b9589afb6ee62bea
+      internalID: 1268962147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_7
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1054756e8558ac04d93a284c1e0e1a06
+      internalID: 951544509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_8
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13913cefc5c8f3140b6b085b33d7d329
+      internalID: -2111922486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_9
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbbb26565d82484085269b03614e433
+      internalID: 1458459470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_10
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5541736bdf7e9a4ab8741f23e7f697e
+      internalID: 2141000649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_11
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1119
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663c790dfa68235458c085c5aaab4300
+      internalID: -107257022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767b6c4bfb7465b4a9eddd3afeb0a66a
+      internalID: 1604149561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f37a4a49a725245abf08157d0b3465
+      internalID: 1783663808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63195f29b137184597b3408be470e11
+      internalID: -1795237302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc78ab9404642f6479898560d9c2f5ff
+      internalID: 490779353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_16
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619c643fe431a04ba3d633dc65c3a09
+      internalID: 214715328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_17
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b35d125ea8ce4a9bf7b781cdd9da3
+      internalID: 998770941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_18
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf1629514d91d64fa681331561d081e
+      internalID: 515180121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_19
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9c9d5fb0489604b81a42912a9be1ee
+      internalID: 416105667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_20
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cd42cbc33cb5542a780ff73ad2c8bc
+      internalID: -1507438190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_21
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc169f956955eb4c89871562bc2a658
+      internalID: 201011940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1209c56bdeb3954b810e894925722e0
+      internalID: -1923769574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_23
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 966
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b127d38781d2d74c8c873c122211d61
+      internalID: -1511817560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7435f360f2d3c6c4b87e6cc5398c4f84
+      internalID: -1119902864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dbf338665435c4897a5cf7ad3a4b12
+      internalID: -2076125771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed73d8e2e7abb5946b7411ef043018f6
+      internalID: -1301260842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_27
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f0e4661a2c26419fb73c804618aa7
+      internalID: -1565968998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_28
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4fa23b362cda745b42c27b2f6a5cc3
+      internalID: -1243992291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_29
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00ae842e2ba26943ae67fd7afc17467
+      internalID: -1012380177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_30
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7217b1dd0456a41820ead7950c96e7
+      internalID: 398545347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_31
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ea7cb62f9506e429fdda5535551c8b
+      internalID: 859252474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_32
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb81d70ef5762e249bcdb57cb84abe59
+      internalID: -256191385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_33
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac1cd9298e0bde4aa50fd04c6176142
+      internalID: 1935983812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_34
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d14e1debb8e3c41b846de68177c5f9
+      internalID: 657861257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_35
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 813
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befd3f56d59fd6c4f8b5588cace1e3e3
+      internalID: -241624821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d841bcb525e7ffe4d8897b87d96fbab3
+      internalID: 954686359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd9763748c3a3458f5c7ff7f8ea8f8
+      internalID: 334233155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_38
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb53f778deb974d81d7f28eb32dbbd
+      internalID: -838626545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8509df85cf6e25d40a14cc4e0f6ef175
+      internalID: 2111066356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_40
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942a886daeb2688488a46226e5787521
+      internalID: -1953692863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_41
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189d12d751e6973419cab7151b9310fe
+      internalID: 1519255460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_42
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d116c34b6b0787f4ab0b9525ee439bff
+      internalID: 1808170891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_43
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6b886e2eed0641968a54d9aed92d6
+      internalID: -1056421348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_44
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d8965b58eeb74abf6c6a1b40b30f5
+      internalID: 1714982666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_45
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70b1fc9f95d26468f0092058b09c52
+      internalID: -1691393229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_46
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409f02efb3a8fa48bea38e1192bbfef
+      internalID: -1719079913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_47
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06be27de3aec1424b8aa71cfdecef2b4
+      internalID: -1172523631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77d4d35e2ee914f9d49b7753ff12bd
+      internalID: 985108219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bce2a28de3b4f4684e2102dd9c4d2f
+      internalID: -1965784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_50
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e57930ad0fc10648a8ad4dc1cdd33da
+      internalID: -687800748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_51
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97db036be8d74f40aa0f7553fd74f8a
+      internalID: 1768988492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_52
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c933d6172e3a045aac7d4a67013af0
+      internalID: 837026114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_53
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175eb0ab9e8c56c44ba4ae567d56b0bb
+      internalID: 162761319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_54
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4fcc17e07ac442bedcbfcdb6564d0
+      internalID: 1787326737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_55
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9841cd7d1df4905458d92bb5ab0d56e1
+      internalID: 1229371559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_56
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad2cfa1e60b0a48a6502db7e85ffbd
+      internalID: 27964023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_57
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec74232abad4244491a495047104056
+      internalID: 295620794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_58
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b28c9949030a41b3f6f66c73277dc
+      internalID: 1138778308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_59
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 507
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f2601305bdbcd4199d2af013823d1f
+      internalID: -1111774862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4854d7f8c7fcf4988d6ed129121cbc
+      internalID: 1223439157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70267ad683fef9640a41eefc90b3da8e
+      internalID: -1004365070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dca3c2bf29f32e48b98bce2daa7d19b
+      internalID: -355997030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_63
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5b5dd550c0cd3418cd0b279f83757d
+      internalID: -1256544090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_64
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81f2c132f1c28429d77d051b6797f9
+      internalID: -787690610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_65
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dbe742d3937f546ba146c25d1d0a97
+      internalID: 110710183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_66
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45c852495a3c9458cf56de92519c9f
+      internalID: -1957554341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_67
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34cded7b59581418b6d33c4fd049a4
+      internalID: -1636900926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_68
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3630733f2cd1f2743afb401d76cbd708
+      internalID: -218601891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_69
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adafb9cd27770e49b1c35ec5859fa74
+      internalID: 1313197935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_70
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103c79ca11f79e54db9e090605e7ca65
+      internalID: 1791332557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_71
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 354
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2018216bb0ce5243aca9a489f171776
+      internalID: 424057388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0691a994cc9c5814385553a9886801af
+      internalID: -1499270213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_73
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7af1823338803744ae60b5922d29c43
+      internalID: 445983404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_74
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d220639cc2eafec489950892eee78915
+      internalID: -658653941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_75
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b59230b611ada4f8a9262f8b756872
+      internalID: 520299940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_76
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f053312b88b2c842912e9e445f36b4a
+      internalID: -354094201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_77
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed819fbc005bf484cb6bacfab6fb3b0c
+      internalID: -687229983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_78
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0359c6c8683b6ec479b31fbd32ab636f
+      internalID: -2787978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_79
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c6107dd74a55a41b2e3c1ee6245537
+      internalID: 335590992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_80
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751af3f8880fdb54084ba79e49db8db0
+      internalID: -1803513009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_81
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90b92fe6621eda4eb22a96c90ea5ebf
+      internalID: -1190616768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_82
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01682ed8be0d69546967ab8bceb97b50
+      internalID: -1232005191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_83
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 201
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d722cf60c20e8f4c93578010707a0d6
+      internalID: -2002969411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176b35a0b4e1da46957effcf47304fe
+      internalID: 1505218939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe1fbc1b63e44041a4b465320e4d8fc
+      internalID: -1328789398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_86
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ec73e79ac10b543bc349868cb052fd
+      internalID: -791221034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_87
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f074bed808a29b46b91185180dc6ea1
+      internalID: -431376389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_88
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca85383d224be94f8e46cdecc37d4eb
+      internalID: -794620296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_89
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451c25f69a7ce3a4ea9b5ae1862b5255
+      internalID: 1267359763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GolemFront_90
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ef562971f7404a82895fd7bffb13b
+      internalID: -1225667849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 97d9fe384cda01f4eae3ea81d91073f1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":36.0,"y":9.0},"gridSpritePadding":{"x":72.0,"y":57.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      GolemFront_0: 8007804262640725550
+      GolemFront_1: -1078039471
+      GolemFront_10: 2141000649
+      GolemFront_11: -107257022
+      GolemFront_12: 1604149561
+      GolemFront_13: 1783663808
+      GolemFront_14: -1795237302
+      GolemFront_15: 490779353
+      GolemFront_16: 214715328
+      GolemFront_17: 998770941
+      GolemFront_18: 515180121
+      GolemFront_19: 416105667
+      GolemFront_2: -1580136713
+      GolemFront_20: -1507438190
+      GolemFront_21: 201011940
+      GolemFront_22: -1923769574
+      GolemFront_23: -1511817560
+      GolemFront_24: -1119902864
+      GolemFront_25: -2076125771
+      GolemFront_26: -1301260842
+      GolemFront_27: -1565968998
+      GolemFront_28: -1243992291
+      GolemFront_29: -1012380177
+      GolemFront_3: -394856616
+      GolemFront_30: 398545347
+      GolemFront_31: 859252474
+      GolemFront_32: -256191385
+      GolemFront_33: 1935983812
+      GolemFront_34: 657861257
+      GolemFront_35: -241624821
+      GolemFront_36: 954686359
+      GolemFront_37: 334233155
+      GolemFront_38: -838626545
+      GolemFront_39: 2111066356
+      GolemFront_4: -2119408424
+      GolemFront_40: -1953692863
+      GolemFront_41: 1519255460
+      GolemFront_42: 1808170891
+      GolemFront_43: -1056421348
+      GolemFront_44: 1714982666
+      GolemFront_45: -1691393229
+      GolemFront_46: -1719079913
+      GolemFront_47: -1172523631
+      GolemFront_48: 985108219
+      GolemFront_49: -1965784
+      GolemFront_5: -872417429
+      GolemFront_50: -687800748
+      GolemFront_51: 1768988492
+      GolemFront_52: 837026114
+      GolemFront_53: 162761319
+      GolemFront_54: 1787326737
+      GolemFront_55: 1229371559
+      GolemFront_56: 27964023
+      GolemFront_57: 295620794
+      GolemFront_58: 1138778308
+      GolemFront_59: -1111774862
+      GolemFront_6: 1268962147
+      GolemFront_60: 1223439157
+      GolemFront_61: -1004365070
+      GolemFront_62: -355997030
+      GolemFront_63: -1256544090
+      GolemFront_64: -787690610
+      GolemFront_65: 110710183
+      GolemFront_66: -1957554341
+      GolemFront_67: -1636900926
+      GolemFront_68: -218601891
+      GolemFront_69: 1313197935
+      GolemFront_7: 951544509
+      GolemFront_70: 1791332557
+      GolemFront_71: 424057388
+      GolemFront_72: -1499270213
+      GolemFront_73: 445983404
+      GolemFront_74: -658653941
+      GolemFront_75: 520299940
+      GolemFront_76: -354094201
+      GolemFront_77: -687229983
+      GolemFront_78: -2787978
+      GolemFront_79: 335590992
+      GolemFront_8: -2111922486
+      GolemFront_80: -1803513009
+      GolemFront_81: -1190616768
+      GolemFront_82: -1232005191
+      GolemFront_83: -2002969411
+      GolemFront_84: 1505218939
+      GolemFront_85: -1328789398
+      GolemFront_86: -791221034
+      GolemFront_87: -431376389
+      GolemFront_88: -794620296
+      GolemFront_89: 1267359763
+      GolemFront_9: 1458459470
+      GolemFront_90: -1225667849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

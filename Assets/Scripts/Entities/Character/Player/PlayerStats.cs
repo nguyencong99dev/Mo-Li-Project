@@ -1,54 +1,68 @@
 using System;
 using UnityEngine;
 
-public struct SPlayerStats
-{
-    public float CurrentHP;
-    public float MaxHP;
-    public float CurrentMP;
-    public float MaxMP;
-    public float CurrentSP;
-    public float MaxSP;
-    public int Currency;
-}
-public class PlayerStats : MonoBehaviour
-{
-    // === BASIC INFOMATION === //
-    public string playerName = "Player 1";
-    public int level = 1;
-    public float exp = 0;
-    public int currrency = 0;
 
-    // === STATUS === //
-    public float CurrentHP;
-    public float CurrentMP;
-    public float CurrentSP;
+public class PlayerStats : IHasHealth, IHasMana, IHasStamina
+{
+    [SerializeField] private float _currentHP;
+    [SerializeField] private float _currentMP;
+    [SerializeField] private float _currentSP;
+    [SerializeField] private string _playerName;
+    [SerializeField] private int _level = 1;
+    [SerializeField] private float _exp = 0;
+    [SerializeField] private int _currency = 0;
+    public string GetPlayerName() => _playerName;
+    public int GetLevel() => _level;
+    public float GetExp() => _exp;
+    public int GetCurrency() => _currency;
+    public float CurrentHP
+    {
+        get => _currentHP;
+        set
+        {
+            _currentHP = Mathf.Clamp(value, 0, MaxHP);
+            OnHPChanged?.Invoke(_currentHP, MaxHP);
+        }
+    }
+    public float CurrentMP
+    {
+        get => _currentMP;
+        set
+        {
+            _currentMP = Mathf.Clamp(value, 0, MaxMP);
+            OnMPChanged?.Invoke(_currentMP, MaxMP);
+        }
+    }
+    public float CurrentSP
+    {
+        get => _currentSP;
+        set
+        {
+            _currentSP = Mathf.Clamp(value, 0, MaxSP);
+            OnSPChanged?.Invoke(_currentSP, MaxSP);
+        }
+    }
     private const int HPPerLv = 100;
     private const int MPPerLv = 100;
     private const int SPPerLv = 50;
-    public float MaxHP => level * HPPerLv;
-    public float MaxMP => level * MPPerLv;
-    public float MaxSP => level * SPPerLv;
+    public float MaxHP => _level * HPPerLv;
+    public float MaxMP => _level * MPPerLv;
+    public float MaxSP => _level * SPPerLv;
+    public event Action<float, float> OnHPChanged;
+    public event Action<float, float> OnMPChanged;
+    public event Action<float, float> OnSPChanged;
 
-    void Start()
+    public void SetPlayerStats(string _playerData)
     {
-        EventBus<SPlayerStats>.Publish(new SPlayerStats
-        {
-            Currency = currrency,
-            CurrentHP = CurrentHP,
-            CurrentMP = CurrentMP,
-            CurrentSP = CurrentSP,
-            MaxHP = MaxHP,
-            MaxMP = MaxMP,
-            MaxSP = MaxSP
-        });
+        JsonUtility.FromJsonOverwrite(_playerData, this);
+        EventBus<SPlayerStats>.Publish(new SPlayerStats { player = this });
     }
-    public void SetPlayerStats(PlayerData _playerData)
+    public PlayerSaveData GetPlayerSaveData()
     {
-        level = _playerData.level;
-        CurrentHP = _playerData.currentHP;
-        CurrentMP = _playerData.currentMP;
-        CurrentSP = _playerData.currentSP;
-        currrency = _playerData.currrency;
+        PlayerSaveData savedata = new();
+        string _data = JsonUtility.ToJson(this);
+        JsonUtility.FromJsonOverwrite(_data, savedata);
+        return savedata;
     }
+
 }

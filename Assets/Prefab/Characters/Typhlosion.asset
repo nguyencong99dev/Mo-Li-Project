@@ -14,9 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DataMember
   ID: member_006
   Name: Typhlosion
-  FrontImage: {fileID: -4922992243281323345, guid: 5f4c567b313f0f64e8b7861f3ead6e77, type: 3}
+  FrontImage: {fileID: -9097637138671513194, guid: f25744e501981444693c5d712f406d42, type: 3}
   BackImage: {fileID: 5098904294142735039, guid: 7e0b1544e2a5ba24fb721c6b12014c1d, type: 3}
   HPPerLV: 50
   MPPerLV: 50
+  SpeedPerLV: 10
   Skills:
-  - skill_002
+  - skill_attack_001
+  - skill_restore_001
+  - skill_restore_002
+  AnimatorOverrideRef: {fileID: 22100000, guid: 10466409d2c4cd449a7ac47e9304dca7, type: 2}

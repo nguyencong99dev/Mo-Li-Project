@@ -1,16 +1,12 @@
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
-public struct SEncounterMonster
-{
-    public List<MonsterData> _Party;
-}
 public class PlayerInteraction : MonoBehaviour
 {
     [Header("Detection")]
     [SerializeField] private LayerMask interacableLayer;
     [SerializeField] private LayerMask encounterLayer;
-
     public void OnTriggerEnter2D(Collider2D collision)
     {
 
@@ -23,7 +19,8 @@ public class PlayerInteraction : MonoBehaviour
             List<MonsterData> enemyParty = collision.gameObject.GetComponentInParent<EnemyController>()._EnemyPartyData;
             EventBus<SEncounterMonster>.Publish(new SEncounterMonster
             {
-                _Party = enemyParty
+                Party = enemyParty,
+                IsEncounter = true
             });
             StartCoroutine(ManagerScene.Instance.LoadScene("Combat"));
         }

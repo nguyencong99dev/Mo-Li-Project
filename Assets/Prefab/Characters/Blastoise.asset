@@ -14,9 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DataMember
   ID: member_003
   Name: Blastoise
-  FrontImage: {fileID: -5922196367038519608, guid: 9afa245c696799f438809cab44c54808, type: 3}
+  FrontImage: {fileID: -7783993554048429097, guid: 425aff40609c1b1479b94106800776a8, type: 3}
   BackImage: {fileID: -3833001870171049196, guid: b0af83246feced243afa13af7e787440, type: 3}
   HPPerLV: 50
   MPPerLV: 50
+  SpeedPerLV: 100
   Skills:
-  - skill_002
+  - {fileID: 11400000, guid: 3baa2edc735d62044b1edf5f71e6595a, type: 2}
+  - {fileID: 11400000, guid: c83e3b42f2824964c8c6b7b1a3f3d2d4, type: 2}
+  - {fileID: 11400000, guid: f9198b9b61c8b0944bbd3a217498715a, type: 2}
+  - {fileID: 11400000, guid: 0a469994731deb841b714a786104f3b5, type: 2}
+  AnimatorOverrideRef: {fileID: 22100000, guid: baf7075c28bba934c8b06f0d5a2adcdf, type: 2}

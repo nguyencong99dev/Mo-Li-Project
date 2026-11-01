@@ -5,13 +5,13 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "New Database Skill", menuName = "Character/Database Skill")]
 public class DatabaseSkill : ScriptableObject
 {
-    public List<DataSkill> allSkills;
-    private Dictionary<string, DataSkill> _lookup;
+    public List<SOSkill> allSkills;
+    private Dictionary<string, SOSkill> _lookup;
     public void BuildLookup()
     {
         _lookup = allSkills.ToDictionary(s => s.ID, s => s);
     }
-    public DataSkill GetByID(string skillID)
+    public SOSkill GetByID(string skillID)
     {
         return _lookup.TryGetValue(skillID, out var skill) ? skill : null;
     }

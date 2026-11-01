@@ -14,9 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DataMember
   ID: member_005
   Name: Meganium
-  FrontImage: {fileID: 4263711643185718168, guid: 1de7397a716ace94eba20ee28923819a, type: 3}
+  FrontImage: {fileID: -3628994470087224747, guid: 66debefb14cc65a418f463f872e9b676, type: 3}
   BackImage: {fileID: 4230053657257508698, guid: eaa459ba2342dd544b539e26411a1719, type: 3}
   HPPerLV: 50
   MPPerLV: 50
+  SpeedPerLV: 10
   Skills:
-  - skill_002
+  - skill_attack_001
+  - skill_restore_001
+  - skill_restore_002
+  AnimatorOverrideRef: {fileID: 22100000, guid: a00173193e14a1043be370f4f218f623, type: 2}

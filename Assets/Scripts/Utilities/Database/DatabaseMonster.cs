@@ -7,13 +7,13 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "New Database Monsters", menuName = "Character/DatabaseMonsters")]
 public class DatabaseMonster : ScriptableObject
 {
-    public List<DataMonster> allMembers;
-    private Dictionary<string, DataMonster> _lookup;
+    public List<SOMonster> allMembers;
+    private Dictionary<string, SOMonster> _lookup;
     public void BuildLookup()
     {
         _lookup = allMembers.ToDictionary(m => m.ID, m => m);
     }
-    public DataMonster GetById(string id)
+    public SOMonster GetById(string id)
     {
         return _lookup.TryGetValue(id, out var monster) ? monster : null;
     }
