@@ -1,0 +1,1653 @@
+fileFormatVersion: 2
+guid: b1128e7e987874b4fbb76e34f785c0cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8067220078064460429
+    second: MachampBack_0
+  - first:
+      213: -5585908064808119114
+    second: MachampBack_1
+  - first:
+      213: 5762854027522985815
+    second: MachampBack_2
+  - first:
+      213: -1212239121704648684
+    second: MachampBack_3
+  - first:
+      213: 6915929129446033485
+    second: MachampBack_4
+  - first:
+      213: -5858330442232042292
+    second: MachampBack_5
+  - first:
+      213: 1826990939399340568
+    second: MachampBack_6
+  - first:
+      213: -9168683478238164679
+    second: MachampBack_7
+  - first:
+      213: -6928217949490404380
+    second: MachampBack_8
+  - first:
+      213: -4735647314276006497
+    second: MachampBack_9
+  - first:
+      213: 4594067959478033416
+    second: MachampBack_10
+  - first:
+      213: -6885862352618772506
+    second: MachampBack_11
+  - first:
+      213: -5137019963136390202
+    second: MachampBack_12
+  - first:
+      213: 7124406547440938316
+    second: MachampBack_13
+  - first:
+      213: 1296405173798308693
+    second: MachampBack_14
+  - first:
+      213: 7364935994109948962
+    second: MachampBack_15
+  - first:
+      213: -6022590817869829678
+    second: MachampBack_16
+  - first:
+      213: 7179022729974971317
+    second: MachampBack_17
+  - first:
+      213: 7372143361858985663
+    second: MachampBack_18
+  - first:
+      213: 6458706895678070176
+    second: MachampBack_19
+  - first:
+      213: 3511137687344076668
+    second: MachampBack_20
+  - first:
+      213: -88765106675614955
+    second: MachampBack_21
+  - first:
+      213: 1137147937453422044
+    second: MachampBack_22
+  - first:
+      213: -822973947578937006
+    second: MachampBack_23
+  - first:
+      213: -1333380528304509069
+    second: MachampBack_24
+  - first:
+      213: -431544108528405536
+    second: MachampBack_25
+  - first:
+      213: 743099690368346930
+    second: MachampBack_26
+  - first:
+      213: 8267757421850885643
+    second: MachampBack_27
+  - first:
+      213: -5299602667714704048
+    second: MachampBack_28
+  - first:
+      213: 5227613034368592123
+    second: MachampBack_29
+  - first:
+      213: 4445008423552355659
+    second: MachampBack_30
+  - first:
+      213: 2343688663122138793
+    second: MachampBack_31
+  - first:
+      213: -1575136604437877397
+    second: MachampBack_32
+  - first:
+      213: 2883320821562496784
+    second: MachampBack_33
+  - first:
+      213: 2608707556614050243
+    second: MachampBack_34
+  - first:
+      213: 1887787587451040021
+    second: MachampBack_35
+  - first:
+      213: -8302744654817409405
+    second: MachampBack_36
+  - first:
+      213: -4549136940545678177
+    second: MachampBack_37
+  - first:
+      213: 4902023801202137839
+    second: MachampBack_38
+  - first:
+      213: -4111990104531333427
+    second: MachampBack_39
+  - first:
+      213: 8138744169272748070
+    second: MachampBack_40
+  - first:
+      213: 3588915407477864624
+    second: MachampBack_41
+  - first:
+      213: 2014857377129426146
+    second: MachampBack_42
+  - first:
+      213: 1482496830932132919
+    second: MachampBack_43
+  - first:
+      213: -5040241252336736946
+    second: MachampBack_44
+  - first:
+      213: 4235420300666584236
+    second: MachampBack_45
+  - first:
+      213: 8353122141295988412
+    second: MachampBack_46
+  - first:
+      213: 4145766981260550025
+    second: MachampBack_47
+  - first:
+      213: -5182925541860131692
+    second: MachampBack_48
+  - first:
+      213: -9176341463467634747
+    second: MachampBack_49
+  - first:
+      213: 78690236303682730
+    second: MachampBack_50
+  - first:
+      213: -2930329774065901890
+    second: MachampBack_51
+  - first:
+      213: -374506419722712586
+    second: MachampBack_52
+  - first:
+      213: 3712806400835681434
+    second: MachampBack_53
+  - first:
+      213: -8508758081841879567
+    second: MachampBack_54
+  - first:
+      213: -4847783321295775444
+    second: MachampBack_55
+  - first:
+      213: 9074659300728478095
+    second: MachampBack_56
+  - first:
+      213: 5051725544644214328
+    second: MachampBack_57
+  - first:
+      213: 3468213165320051556
+    second: MachampBack_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MachampBack_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d826ee54be584ff60800000000000000
+      internalID: 8067220078064460429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749d696769f3a4d469f03550170aed47
+      internalID: -169056574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20deb112290cba04bbedf74103b5ad12
+      internalID: 179071879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1825315c22c7afa45bb870f40db1bd51
+      internalID: 1806986638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ceba7605e356c4494f29e6a1fe610f
+      internalID: -132347094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_5
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471698e97ced89540b716cb8e31072ea
+      internalID: -904032459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cdfd70692007c4492bb79887feec60
+      internalID: 1934219642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_7
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0fc2cecc57aa949b6483eed8e31097
+      internalID: 346834096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_8
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c01f3d5f5f1b146a9010fd7c7d8a53
+      internalID: 917808201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_9
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738d640afe52b734f8a4f591fd905677
+      internalID: -1863064000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_10
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ffd8aa1df398b47b9fad7d9c02d0b3
+      internalID: 1859042734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_11
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caae38ebe1c08f4f87cd0d852ea34d5
+      internalID: -997045265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b814649335e2459bb12c7469b41a7
+      internalID: -538922023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3920b8cf057997499c7d2ff460e517c
+      internalID: 1575307074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7384560eb9bbba4680db62f25d918c3
+      internalID: -777861173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf1583706e73a4fa223d59d34069ef
+      internalID: -882525661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0842ffe495dd064c835c00b0e30640a
+      internalID: 560265687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4236136688a898b4785a164daeb1c7b3
+      internalID: 383219269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47da4a318b8a3ec4db26b98c35448312
+      internalID: -1633464818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_19
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a79371f7b7bb4bb5ff40f1d450c73
+      internalID: 974171803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_20
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a169032f4856cb4f808454c29552f02
+      internalID: 83115892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_21
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e52306f68141b4192969ce5b7c3377
+      internalID: 1776151280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_22
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02431f0a41d627a4ebfae3ad8ff974ad
+      internalID: -2008403670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_23
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae8b5d901ce1c54d9b1699fc760c14c
+      internalID: 1174202961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88c0b444ec1aa438d0a28d7fcd0295
+      internalID: -818587668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf9eb47b5563546966b01b04b2aa87
+      internalID: 931167021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d11b0cb30529624e8a2e7e50bdb02df
+      internalID: 1289949973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_27
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad1660461fb244f83ee4f26722c1cf
+      internalID: -2040090787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_28
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e34190ebb7aa44f8946f95b88a60b0
+      internalID: 1831312658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b139650bc1434f91a83f7075949f4
+      internalID: -1904145330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_30
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedb6aa88fbd92a43aac54ee6a931ddd
+      internalID: -1090175666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_31
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec653693f93c846842bab73a6feb40
+      internalID: 1019485201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_32
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f1d00fc11f09478c8f5854833c6dd
+      internalID: -1557422911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_33
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7babe64b59e3c6649aa85425a611efd4
+      internalID: -1714030775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_34
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d0591b431842741a690e5c3f767533
+      internalID: 1779915173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_35
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 392
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff18ab9cab4426740b3660576b64af91
+      internalID: -1866251913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c4645fea63404f917e489c5c0b41f
+      internalID: 1571719835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7219b1bb09cdf934c874f79536f45076
+      internalID: -2135011996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d679cf1a7475441b1e0dfcd3faab2a
+      internalID: -780704077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_39
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83898af0ddc53a948a1e6e1fa52ca276
+      internalID: -1510608753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_40
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d16e29e58107dd4bbaaee7b0aa7869b
+      internalID: 1669568386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_41
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a59471c17604ae46bfedf518d5140d5
+      internalID: -1339913415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c56065e9c62c946999da9c4f2acea6
+      internalID: 1070691894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_43
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d0f4341e426744caf6456a5cb2f5db
+      internalID: 1177049816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_44
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d392fe09396048a27097ae7209133
+      internalID: 73674023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_45
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e853cfe04a7dd94a90e5779750adb7e
+      internalID: 931381600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_46
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db5e49572c24ec4b8a198d0d6f9936a
+      internalID: -1993607635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_47
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 220
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54797fb3f7aa34e498c7d382375e62e3
+      internalID: -2103186224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad429f8c2b575409df444162edfab6
+      internalID: -198381961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d597b3ab80c3a8409a2cb19a565eb98
+      internalID: 84161091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_50
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd56cc4d24cdc4a44903fba2398b19f2
+      internalID: -1923578436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c21418c82768c24b80f607453e84ddf
+      internalID: 1435175773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_52
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4a4b7a37743764994eb15e02e6f80a
+      internalID: -287602274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_53
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b73e9dbf2abb654e9f007c2c99ac50a
+      internalID: 431620126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_54
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295447c2581f3454baddbc17966d2c37
+      internalID: -934228223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_55
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7599aa3b76e0784bbafc6fa8ecd0ba3
+      internalID: 1630984920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_56
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65203ee636ec8db4097b04e7b72c9a71
+      internalID: -627496050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_57
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e208193c95daf4f8d27e49534772f6
+      internalID: -1571247374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachampBack_58
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f3ae2fc9370b4a8d85da99c8d4587
+      internalID: -700320615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 090bda239580d0544a277c7a79e08444
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":30.0,"y":28.0},"gridSpritePadding":{"x":67.0,"y":76.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MachampBack_0: 8067220078064460429
+      MachampBack_1: -169056574
+      MachampBack_10: 1859042734
+      MachampBack_11: -997045265
+      MachampBack_12: -538922023
+      MachampBack_13: 1575307074
+      MachampBack_14: -777861173
+      MachampBack_15: -882525661
+      MachampBack_16: 560265687
+      MachampBack_17: 383219269
+      MachampBack_18: -1633464818
+      MachampBack_19: 974171803
+      MachampBack_2: 179071879
+      MachampBack_20: 83115892
+      MachampBack_21: 1776151280
+      MachampBack_22: -2008403670
+      MachampBack_23: 1174202961
+      MachampBack_24: -818587668
+      MachampBack_25: 931167021
+      MachampBack_26: 1289949973
+      MachampBack_27: -2040090787
+      MachampBack_28: 1831312658
+      MachampBack_29: -1904145330
+      MachampBack_3: 1806986638
+      MachampBack_30: -1090175666
+      MachampBack_31: 1019485201
+      MachampBack_32: -1557422911
+      MachampBack_33: -1714030775
+      MachampBack_34: 1779915173
+      MachampBack_35: -1866251913
+      MachampBack_36: 1571719835
+      MachampBack_37: -2135011996
+      MachampBack_38: -780704077
+      MachampBack_39: -1510608753
+      MachampBack_4: -132347094
+      MachampBack_40: 1669568386
+      MachampBack_41: -1339913415
+      MachampBack_42: 1070691894
+      MachampBack_43: 1177049816
+      MachampBack_44: 73674023
+      MachampBack_45: 931381600
+      MachampBack_46: -1993607635
+      MachampBack_47: -2103186224
+      MachampBack_48: -198381961
+      MachampBack_49: 84161091
+      MachampBack_5: -904032459
+      MachampBack_50: -1923578436
+      MachampBack_51: 1435175773
+      MachampBack_52: -287602274
+      MachampBack_53: 431620126
+      MachampBack_54: -934228223
+      MachampBack_55: 1630984920
+      MachampBack_56: -627496050
+      MachampBack_57: -1571247374
+      MachampBack_58: -700320615
+      MachampBack_6: 1934219642
+      MachampBack_7: 346834096
+      MachampBack_8: 917808201
+      MachampBack_9: -1863064000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

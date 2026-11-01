@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a56ab98b80f8f74eab1616529dc4271, type: 3}
+  m_Name: Punch
+  m_EditorClassIdentifier: Assembly-CSharp::SOSkill
+  ID: attack_skill_punch
+  Name: Punch
+  Image: {fileID: -2824919119325635884, guid: 509cbe1367816bd4ab6e04d0228986f6, type: 3}
+  mpCost: 100
+  skillType: 0
+  targetType: 2
+  AnimationClip: {fileID: 7400000, guid: df2bd0da2e86fd9498c860bd90f28469, type: 2}
+  _effects:
+  - rid: 8448105973971943866
+  references:
+    version: 2
+    RefIds:
+    - rid: 8448105973971943866
+      type: {class: EffectContext, ns: , asm: Assembly-CSharp}
+      data:
+        Effect: {fileID: 11400000, guid: d3291f09c43e6c4449d9671d4a9bd208, type: 2}
+        payload:
+          rid: 8448105973971943867
+    - rid: 8448105973971943867
+      type: {class: DamagePayload, ns: , asm: Assembly-CSharp}
+      data:
+        damage: 100

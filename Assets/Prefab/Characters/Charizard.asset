@@ -14,9 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DataMember
   ID: member_002
   Name: Charizard
-  FrontImage: {fileID: -2175814085841678711, guid: d2d3baea3b76c2c4d9f79c1fc8bd0aaf, type: 3}
+  FrontImage: {fileID: 4735254002460835697, guid: 6c2f493fa0b0c2045bfbf66f282331ff, type: 3}
   BackImage: {fileID: -8588123591791768803, guid: 85a71f2ef2ba6a343992a342c71fb1ff, type: 3}
   HPPerLV: 50
   MPPerLV: 50
+  SpeedPerLV: 10
   Skills:
-  - skill_002
+  - skill_attack_001
+  - skill_restore_001
+  - skill_restore_002
+  AnimatorOverrideRef: {fileID: 22100000, guid: 230428217bdf1094ab831196ce605d9b, type: 2}

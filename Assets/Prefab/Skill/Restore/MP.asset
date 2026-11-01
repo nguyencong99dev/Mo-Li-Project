@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a56ab98b80f8f74eab1616529dc4271, type: 3}
+  m_Name: MP
+  m_EditorClassIdentifier: Assembly-CSharp::SOSkill
+  ID: restore_skill_mp
+  Name: MP
+  Image: {fileID: -8669341311543686296, guid: c6fa1838665e0434ba86b898aa35346b, type: 3}
+  mpCost: 0
+  skillType: 0
+  targetType: 1
+  AnimationClip: {fileID: 7400000, guid: 1e20efbe2c211da4bac23a0cf933d322, type: 2}
+  _effects:
+  - rid: 8448105973971943891
+  references:
+    version: 2
+    RefIds:
+    - rid: 8448105973971943891
+      type: {class: EffectContext, ns: , asm: Assembly-CSharp}
+      data:
+        Effect: {fileID: 11400000, guid: b45353e9e91360245b4afce3db788430, type: 2}
+        payload:
+          rid: 8448105973971943892
+    - rid: 8448105973971943892
+      type: {class: RestorePayload, ns: , asm: Assembly-CSharp}
+      data:
+        amount: 100

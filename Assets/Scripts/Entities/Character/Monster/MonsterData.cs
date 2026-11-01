@@ -3,9 +3,9 @@ using System;
 [Serializable]
 public class MonsterData
 {
-    public string ID;   // dùng để tra lại MemeberSpeciesData
-    public int level;
-    public int exp;
-    public float currentHP = 75;
-    public float currentMP = 75;
+    public string ID;
+    public float _level = 1;
+    public float _exp = 0;
+    public float _currentHP;
+    public float _currentMP;
 }

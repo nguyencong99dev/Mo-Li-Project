@@ -1,0 +1,1965 @@
+fileFormatVersion: 2
+guid: d8795614772cdb54bb9a4d9b56208089
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5113742323820793492
+    second: PidgeotFront_0
+  - first:
+      213: -2545746471729678263
+    second: PidgeotFront_1
+  - first:
+      213: 8873141710352865297
+    second: PidgeotFront_2
+  - first:
+      213: -2438607924115703915
+    second: PidgeotFront_3
+  - first:
+      213: -5332894572945296469
+    second: PidgeotFront_4
+  - first:
+      213: -5672885527466342479
+    second: PidgeotFront_5
+  - first:
+      213: -8129097408903105509
+    second: PidgeotFront_6
+  - first:
+      213: 6452524605062184092
+    second: PidgeotFront_7
+  - first:
+      213: 5282423656173386783
+    second: PidgeotFront_8
+  - first:
+      213: 5228738361979697223
+    second: PidgeotFront_9
+  - first:
+      213: -1821597893182730744
+    second: PidgeotFront_10
+  - first:
+      213: -4432221059897951833
+    second: PidgeotFront_11
+  - first:
+      213: 5458583933701739828
+    second: PidgeotFront_12
+  - first:
+      213: -5330528949861312134
+    second: PidgeotFront_13
+  - first:
+      213: 2392322573198766752
+    second: PidgeotFront_14
+  - first:
+      213: -8516256477094845635
+    second: PidgeotFront_15
+  - first:
+      213: 4822645959173531002
+    second: PidgeotFront_16
+  - first:
+      213: 8223451711998737865
+    second: PidgeotFront_17
+  - first:
+      213: 8892721371809233670
+    second: PidgeotFront_18
+  - first:
+      213: 5268097032218677992
+    second: PidgeotFront_19
+  - first:
+      213: -7996824496167256466
+    second: PidgeotFront_20
+  - first:
+      213: 7529394480236372201
+    second: PidgeotFront_21
+  - first:
+      213: 2055805720682876771
+    second: PidgeotFront_22
+  - first:
+      213: 2997468663281461202
+    second: PidgeotFront_23
+  - first:
+      213: -4614751292091168681
+    second: PidgeotFront_24
+  - first:
+      213: 1657179216263983913
+    second: PidgeotFront_25
+  - first:
+      213: 3859019342150297830
+    second: PidgeotFront_26
+  - first:
+      213: 6920814650312149613
+    second: PidgeotFront_27
+  - first:
+      213: 1083572775069227786
+    second: PidgeotFront_28
+  - first:
+      213: 5396468272432563620
+    second: PidgeotFront_29
+  - first:
+      213: -7446538302142179918
+    second: PidgeotFront_30
+  - first:
+      213: -582423961252208125
+    second: PidgeotFront_31
+  - first:
+      213: -7846054645323357220
+    second: PidgeotFront_32
+  - first:
+      213: -6362939578525077429
+    second: PidgeotFront_33
+  - first:
+      213: 2878003596891524132
+    second: PidgeotFront_34
+  - first:
+      213: 5243058113720324364
+    second: PidgeotFront_35
+  - first:
+      213: 5047627412641924098
+    second: PidgeotFront_36
+  - first:
+      213: 1403552589135124703
+    second: PidgeotFront_37
+  - first:
+      213: -5129431273458698147
+    second: PidgeotFront_38
+  - first:
+      213: 116836123079088785
+    second: PidgeotFront_39
+  - first:
+      213: 6742399059499388046
+    second: PidgeotFront_40
+  - first:
+      213: -6565073716343342104
+    second: PidgeotFront_41
+  - first:
+      213: -5685088189630438153
+    second: PidgeotFront_42
+  - first:
+      213: 8952997104500371105
+    second: PidgeotFront_43
+  - first:
+      213: 6429925809469625927
+    second: PidgeotFront_44
+  - first:
+      213: -1155803589735774583
+    second: PidgeotFront_45
+  - first:
+      213: -2247499474286803472
+    second: PidgeotFront_46
+  - first:
+      213: -5834119749396622566
+    second: PidgeotFront_47
+  - first:
+      213: -5496898515003458613
+    second: PidgeotFront_48
+  - first:
+      213: 5162553262898437608
+    second: PidgeotFront_49
+  - first:
+      213: 70524897071360192
+    second: PidgeotFront_50
+  - first:
+      213: 5674542023887174532
+    second: PidgeotFront_51
+  - first:
+      213: -2440823177404819407
+    second: PidgeotFront_52
+  - first:
+      213: -533317468354610698
+    second: PidgeotFront_53
+  - first:
+      213: 9103956184226799733
+    second: PidgeotFront_54
+  - first:
+      213: -7490990671362752202
+    second: PidgeotFront_55
+  - first:
+      213: 5015283454326363923
+    second: PidgeotFront_56
+  - first:
+      213: -980896330222991319
+    second: PidgeotFront_57
+  - first:
+      213: 8493892077721358980
+    second: PidgeotFront_58
+  - first:
+      213: -8910810068700069693
+    second: PidgeotFront_59
+  - first:
+      213: 8820921236929445240
+    second: PidgeotFront_60
+  - first:
+      213: -4217211813793205232
+    second: PidgeotFront_61
+  - first:
+      213: 6736453826132144101
+    second: PidgeotFront_62
+  - first:
+      213: -6424247401804371281
+    second: PidgeotFront_63
+  - first:
+      213: -4240040831883343813
+    second: PidgeotFront_64
+  - first:
+      213: -3575937846416011029
+    second: PidgeotFront_65
+  - first:
+      213: -7292128351248771242
+    second: PidgeotFront_66
+  - first:
+      213: 4624595738575838270
+    second: PidgeotFront_67
+  - first:
+      213: -8913519862939552820
+    second: PidgeotFront_68
+  - first:
+      213: 6817559010603059741
+    second: PidgeotFront_69
+  - first:
+      213: 1738286578890267680
+    second: PidgeotFront_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PidgeotFront_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e083cbc89a7f640800000000000000
+      internalID: 5113742323820793492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ff887b8b0bdbd47bba4c2c5340add7
+      internalID: 263928336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbc7fb9806d40c46a9da74112636563
+      internalID: 2043559477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f146d78abf3741842aec5851c3eabcfc
+      internalID: 1201430110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4469a9c3d2e74414b82ea578d053404e
+      internalID: -1079250885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_5
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6bad5e4563be46b9c2f558ef24dd5
+      internalID: -57212547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d6bc6c6a2e9b3419481f11467acf28
+      internalID: 777725568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_7
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b5258a30960434399d66c3960b9e94
+      internalID: 1371719694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_8
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378507a5efd1bf74f9e117c3db6274c8
+      internalID: -2062581825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_9
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e674531819e247440bb197a516668077
+      internalID: 1859844494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_10
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe33698b3a3494c93af9d24d07f8e4
+      internalID: -1198635204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_11
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 868
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab778b1986470479686b14d39c41ed
+      internalID: -2002712246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a758490ad9fe7624fb7f25639a056e24
+      internalID: 496100485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a32d00fe3756c4d8cc85dbb365bbdf
+      internalID: 246647229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c6a2e29384b54abe2df69b1961107
+      internalID: -678389115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b4cd269f45284bbc309a3335e3d64
+      internalID: -1955122385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b6a43b6eac2449ae8367d1f6ac949
+      internalID: -1675499564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_17
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99aec6e5d76d8547856deb3d6800e4c
+      internalID: -701710696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_18
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cc0cd74a42b514cbb96c9d1173db6b
+      internalID: 710857055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_19
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c913686b025446b3935ef4c0a1a33
+      internalID: 1038040317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_20
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b321eaf030c471a4ea92020e55c0d6cb
+      internalID: 1432045103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_21
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e2842c12c4368479f2334f7f0f86d5
+      internalID: 315282966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_22
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312d8c8d38e3994ca83cc8085fcbbaf
+      internalID: 819761820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_23
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 704
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad91c261d449af47993fd3fa4d0d130
+      internalID: 27446560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae574b3db7c44944a4227b3f31fe463
+      internalID: 807443400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56be00cca80ccb45a4e3f68b75d2fdb
+      internalID: 1435703962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84b8869cb620b34abaf0387ed023c8f
+      internalID: -1114016105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b008d51b3ba54982744ee59e2d41b
+      internalID: -1733430504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c8d67c35a43141bddf73c8bb794af
+      internalID: -829807565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_29
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967958a3c98618244834f7ffa8978a0d
+      internalID: 914102007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_30
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0116b2fb57b94fd46911e8ec52d2c1de
+      internalID: 1706824110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_31
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e1add109e88f64393dd066366eb97e
+      internalID: 1004753343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_32
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a73cdb5c921546b3f1e6de585fd59
+      internalID: -1378255138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_33
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39216c92dab6b674cb088ea8602e96d8
+      internalID: -121631152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_34
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdb0b6f3fa947448984e58c3019e44
+      internalID: -1292111478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_35
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 540
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d262b0fdc559314581877a95aff0dec
+      internalID: 832199918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1bbddf4bcb00f4691b6bf7e05eeb9b
+      internalID: 1118788885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_37
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862e0a197af0d1946ac7678c4f20fcf0
+      internalID: -1589343435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2065660d0643e1d48b690795ad121dea
+      internalID: -907137064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6533da4a18cb547ae2176b832fc02b
+      internalID: 1559260988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5b49e0a07a5e46976004ecda6c5b3
+      internalID: -261339052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_41
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b7c7420555594a87f99a03324ed0e
+      internalID: -1853924341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_42
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0df00e11d82a04d9225ebebd5ad9c7
+      internalID: 249574018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_43
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752d1f99edce7c64f87cecfb69fd524d
+      internalID: -1436625872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_44
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1376ca2399618d4299cec373e29084b
+      internalID: -1122136811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_45
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b4cbb637917cc41ac8afa895154a2a
+      internalID: 1716940139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_46
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c06fd0c6939b41aa8d06ddc3b72a6
+      internalID: -196866990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_47
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 376
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabecc121e27a044abed968742ffc77e
+      internalID: 29255427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c77b3e9a68cd54591d3ad3e0f5ae49
+      internalID: 1354764001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_49
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58541241fa6daa418a3eb68370e7422
+      internalID: -142145743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_50
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e225ab1422a56d74fb78ae780a5f3741
+      internalID: -1663804481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_51
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f29823b2f990ae4cbece930ff06b2fb
+      internalID: 2103342033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0213d4a4a84334a8976b5fda9f9da0
+      internalID: -1711001681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_53
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a7ff341f1b944389b54f1ae58e008
+      internalID: -529750234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_54
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15e93fdbc6191b4e9f49046986d963e
+      internalID: -1625735146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_55
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22cb4f023128ba43a7457b97c5817ac
+      internalID: -1638504607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_56
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bacba3e4d08464b84ea4c612e012de
+      internalID: 1222897777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_57
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ed9ab36a39d5e4898360456895c3fa
+      internalID: -1030080155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_58
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb81e2cbb59d264e867158a1b0c7c43
+      internalID: -1372312760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_59
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 212
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c566fc7f290de4bb113327225b9c6a
+      internalID: -1896068004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe835d37e4a9a00488791fcf2e6685e4
+      internalID: 2125999983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5569c9d7ffec0c34483a3da665b88bc0
+      internalID: 800780796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f294271f80750054ba28df8a92e9e4ed
+      internalID: 1230067165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5a278802896154db920e82ad64e8f6
+      internalID: 127697900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f588f9551e49bdc4a947f9c3f6f225a1
+      internalID: -688625345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_65
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6988e4c1a96af0949933bf5bbb9773dc
+      internalID: 1061891826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_66
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69d3998a70ec1469bc120a1d43a14d
+      internalID: -1761404422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_67
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18becc6957cf404bb714f83cecaa002
+      internalID: 1131426468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_68
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c40741ec0299344b30a59c135172f2
+      internalID: -1756121269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_69
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23c72e359dae442955d16da746af73
+      internalID: -1242669224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PidgeotFront_70
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 48
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec03b4b8d573074fae99f225331090c
+      internalID: -1440058968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a770d42824fae6440a3f954a3ee12d9b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":24.0,"y":20.0},"gridSpritePadding":{"x":58.0,"y":68.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PidgeotFront_0: 5113742323820793492
+      PidgeotFront_1: 263928336
+      PidgeotFront_10: -1198635204
+      PidgeotFront_11: -2002712246
+      PidgeotFront_12: 496100485
+      PidgeotFront_13: 246647229
+      PidgeotFront_14: -678389115
+      PidgeotFront_15: -1955122385
+      PidgeotFront_16: -1675499564
+      PidgeotFront_17: -701710696
+      PidgeotFront_18: 710857055
+      PidgeotFront_19: 1038040317
+      PidgeotFront_2: 2043559477
+      PidgeotFront_20: 1432045103
+      PidgeotFront_21: 315282966
+      PidgeotFront_22: 819761820
+      PidgeotFront_23: 27446560
+      PidgeotFront_24: 807443400
+      PidgeotFront_25: 1435703962
+      PidgeotFront_26: -1114016105
+      PidgeotFront_27: -1733430504
+      PidgeotFront_28: -829807565
+      PidgeotFront_29: 914102007
+      PidgeotFront_3: 1201430110
+      PidgeotFront_30: 1706824110
+      PidgeotFront_31: 1004753343
+      PidgeotFront_32: -1378255138
+      PidgeotFront_33: -121631152
+      PidgeotFront_34: -1292111478
+      PidgeotFront_35: 832199918
+      PidgeotFront_36: 1118788885
+      PidgeotFront_37: -1589343435
+      PidgeotFront_38: -907137064
+      PidgeotFront_39: 1559260988
+      PidgeotFront_4: -1079250885
+      PidgeotFront_40: -261339052
+      PidgeotFront_41: -1853924341
+      PidgeotFront_42: 249574018
+      PidgeotFront_43: -1436625872
+      PidgeotFront_44: -1122136811
+      PidgeotFront_45: 1716940139
+      PidgeotFront_46: -196866990
+      PidgeotFront_47: 29255427
+      PidgeotFront_48: 1354764001
+      PidgeotFront_49: -142145743
+      PidgeotFront_5: -57212547
+      PidgeotFront_50: -1663804481
+      PidgeotFront_51: 2103342033
+      PidgeotFront_52: -1711001681
+      PidgeotFront_53: -529750234
+      PidgeotFront_54: -1625735146
+      PidgeotFront_55: -1638504607
+      PidgeotFront_56: 1222897777
+      PidgeotFront_57: -1030080155
+      PidgeotFront_58: -1372312760
+      PidgeotFront_59: -1896068004
+      PidgeotFront_6: 777725568
+      PidgeotFront_60: 2125999983
+      PidgeotFront_61: 800780796
+      PidgeotFront_62: 1230067165
+      PidgeotFront_63: 127697900
+      PidgeotFront_64: -688625345
+      PidgeotFront_65: 1061891826
+      PidgeotFront_66: -1761404422
+      PidgeotFront_67: 1131426468
+      PidgeotFront_68: -1756121269
+      PidgeotFront_69: -1242669224
+      PidgeotFront_7: 1371719694
+      PidgeotFront_70: -1440058968
+      PidgeotFront_8: -2062581825
+      PidgeotFront_9: 1859844494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

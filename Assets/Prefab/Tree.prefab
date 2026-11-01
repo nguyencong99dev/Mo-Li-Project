@@ -78,7 +78,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -52085057
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 10
   m_MaskInteraction: 0
   m_Sprite: {fileID: 6853316077166303748, guid: b988b68394df0c240b2fb159fd19ff19, type: 3}
@@ -357,7 +357,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1257989918362303400}
-  - component: {fileID: 8613969415780469663}
   - component: {fileID: 2983762135120014803}
   m_Layer: 9
   m_Name: Tree
@@ -384,21 +383,6 @@ Transform:
   - {fileID: 34300218135040053}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8613969415780469663
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7715949155987967131}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3c481d6aecc25d498b51b942e8da563, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Tree
-  isActice: 0
-  itemPrefab: {fileID: 0}
-  tree: {fileID: 0}
 --- !u!61 &2983762135120014803
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -1,0 +1,2277 @@
+fileFormatVersion: 2
+guid: af400fa056708974cbde0f510ed92d19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2974279295290541628
+    second: FeraligatrFront_0
+  - first:
+      213: 6887371230318416524
+    second: FeraligatrFront_1
+  - first:
+      213: -8300912703251615099
+    second: FeraligatrFront_2
+  - first:
+      213: 8061016476723595824
+    second: FeraligatrFront_3
+  - first:
+      213: 6904167052434240637
+    second: FeraligatrFront_4
+  - first:
+      213: -5400577979132537273
+    second: FeraligatrFront_5
+  - first:
+      213: 3081804414544004527
+    second: FeraligatrFront_6
+  - first:
+      213: 8700840994214129462
+    second: FeraligatrFront_7
+  - first:
+      213: 150066782953679458
+    second: FeraligatrFront_8
+  - first:
+      213: -6057671004686367152
+    second: FeraligatrFront_9
+  - first:
+      213: -2039191867929277755
+    second: FeraligatrFront_10
+  - first:
+      213: -6561868038411810734
+    second: FeraligatrFront_11
+  - first:
+      213: -4459618818815946704
+    second: FeraligatrFront_12
+  - first:
+      213: 2696814661219594752
+    second: FeraligatrFront_13
+  - first:
+      213: -5628718918833930509
+    second: FeraligatrFront_14
+  - first:
+      213: -6278879635729019547
+    second: FeraligatrFront_15
+  - first:
+      213: 6142980460101991623
+    second: FeraligatrFront_16
+  - first:
+      213: 7036121424223459633
+    second: FeraligatrFront_17
+  - first:
+      213: 1913122405275321304
+    second: FeraligatrFront_18
+  - first:
+      213: -8684857739366377677
+    second: FeraligatrFront_19
+  - first:
+      213: 3477483148544432392
+    second: FeraligatrFront_20
+  - first:
+      213: -668467146928043793
+    second: FeraligatrFront_21
+  - first:
+      213: 8869957843186442564
+    second: FeraligatrFront_22
+  - first:
+      213: 7451715866669893851
+    second: FeraligatrFront_23
+  - first:
+      213: -4926264945263102243
+    second: FeraligatrFront_24
+  - first:
+      213: -4782838945145007148
+    second: FeraligatrFront_25
+  - first:
+      213: -3301137424238971452
+    second: FeraligatrFront_26
+  - first:
+      213: 8722937283181765903
+    second: FeraligatrFront_27
+  - first:
+      213: -1176912511831097798
+    second: FeraligatrFront_28
+  - first:
+      213: 5908170174614807292
+    second: FeraligatrFront_29
+  - first:
+      213: -7551704773762048437
+    second: FeraligatrFront_30
+  - first:
+      213: 1750782548367462778
+    second: FeraligatrFront_31
+  - first:
+      213: -8894834885676016617
+    second: FeraligatrFront_32
+  - first:
+      213: -3731949592747390994
+    second: FeraligatrFront_33
+  - first:
+      213: -1785926328684572185
+    second: FeraligatrFront_34
+  - first:
+      213: 2895856287214490987
+    second: FeraligatrFront_35
+  - first:
+      213: 7966930201532683890
+    second: FeraligatrFront_36
+  - first:
+      213: 2769286779711316307
+    second: FeraligatrFront_37
+  - first:
+      213: 9059417764892419506
+    second: FeraligatrFront_38
+  - first:
+      213: -2417627659223079794
+    second: FeraligatrFront_39
+  - first:
+      213: 6077678661988069143
+    second: FeraligatrFront_40
+  - first:
+      213: -3000219153346766037
+    second: FeraligatrFront_41
+  - first:
+      213: -568066521837368232
+    second: FeraligatrFront_42
+  - first:
+      213: 7202670700099648077
+    second: FeraligatrFront_43
+  - first:
+      213: 2923170063141444494
+    second: FeraligatrFront_44
+  - first:
+      213: -173696086652075079
+    second: FeraligatrFront_45
+  - first:
+      213: 7543080975900007153
+    second: FeraligatrFront_46
+  - first:
+      213: -8469350832939410426
+    second: FeraligatrFront_47
+  - first:
+      213: -6255772496125694881
+    second: FeraligatrFront_48
+  - first:
+      213: 969838771014501961
+    second: FeraligatrFront_49
+  - first:
+      213: 1862335026307478934
+    second: FeraligatrFront_50
+  - first:
+      213: 4703253517731920977
+    second: FeraligatrFront_51
+  - first:
+      213: 2953462546799343426
+    second: FeraligatrFront_52
+  - first:
+      213: 6277093384359545406
+    second: FeraligatrFront_53
+  - first:
+      213: -656258490990363720
+    second: FeraligatrFront_54
+  - first:
+      213: -7317243849845400510
+    second: FeraligatrFront_55
+  - first:
+      213: -993806023410528904
+    second: FeraligatrFront_56
+  - first:
+      213: 3709196620817676228
+    second: FeraligatrFront_57
+  - first:
+      213: -4935190330188327383
+    second: FeraligatrFront_58
+  - first:
+      213: 6270809209118888150
+    second: FeraligatrFront_59
+  - first:
+      213: -8513842664113444140
+    second: FeraligatrFront_60
+  - first:
+      213: 7903834870195351139
+    second: FeraligatrFront_61
+  - first:
+      213: 6179439840987367036
+    second: FeraligatrFront_62
+  - first:
+      213: -3922877575845629251
+    second: FeraligatrFront_63
+  - first:
+      213: -8419778766155748946
+    second: FeraligatrFront_64
+  - first:
+      213: -6179269305196457458
+    second: FeraligatrFront_65
+  - first:
+      213: -6375852925221081421
+    second: FeraligatrFront_66
+  - first:
+      213: 2276591315118740966
+    second: FeraligatrFront_67
+  - first:
+      213: 651309055788258136
+    second: FeraligatrFront_68
+  - first:
+      213: -2509323446786694054
+    second: FeraligatrFront_69
+  - first:
+      213: 567189197037091684
+    second: FeraligatrFront_70
+  - first:
+      213: -2043979139150966753
+    second: FeraligatrFront_71
+  - first:
+      213: -6120206992324415970
+    second: FeraligatrFront_72
+  - first:
+      213: -20049233498029118
+    second: FeraligatrFront_73
+  - first:
+      213: 1790576493699429672
+    second: FeraligatrFront_74
+  - first:
+      213: -3771988570612879095
+    second: FeraligatrFront_75
+  - first:
+      213: -608871700686867897
+    second: FeraligatrFront_76
+  - first:
+      213: -2868266972185195640
+    second: FeraligatrFront_77
+  - first:
+      213: -3625915641441021059
+    second: FeraligatrFront_78
+  - first:
+      213: 809300560857364781
+    second: FeraligatrFront_79
+  - first:
+      213: 2592323976424166447
+    second: FeraligatrFront_80
+  - first:
+      213: -6418223308978567353
+    second: FeraligatrFront_81
+  - first:
+      213: 1897141943064128333
+    second: FeraligatrFront_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FeraligatrFront_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c978654dbc39b6d0800000000000000
+      internalID: -2974279295290541628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28608a63e54fb741968540de447b4d4
+      internalID: 609471705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f179c54edfa65438f5c13e3273788b
+      internalID: -1101910876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcb3723458b04d4b8f6558d9c552137
+      internalID: 1552725593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2af00e31ab58b4991c43b70055a363
+      internalID: -2132488271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a78707766aae142935d5d0a95d310b
+      internalID: -939839807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22a368bdaa2bf541b41944dc61db467
+      internalID: 662088515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_7
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa211a43377dca41a9cc72cbeaa9e25
+      internalID: 1917452958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_8
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8350aa5c2c9345b38df574fe5742a
+      internalID: 1827170544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_9
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cb19a762303a941a97e392996e045b
+      internalID: 1541300892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_10
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e34d7178254541b284fabad39e205
+      internalID: -1614701993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_11
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 848
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5751dc5aa169f594fb96a2376f485650
+      internalID: -1244615450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768178b9a1a3f504a91c63ee06a62fe8
+      internalID: 1479235115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b570647a6281c8044b840b7bca9129ab
+      internalID: 934649265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c017a71ff0d2804da9f0ad2b4606702
+      internalID: -1421441432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10306fa200b77db4c838ef02d9c2c368
+      internalID: -1172205572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f0f389b4741c3438440a5cc53e7a2d
+      internalID: 1682434505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08acd7b08e9e27488241bad14925bfa
+      internalID: -1402045141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576fca8dcf31604fbd42182274ef791
+      internalID: -666921598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_19
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557e7e9bcadcdd489b4aa5701481bed
+      internalID: -1629954101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_20
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bef55249594b74d923c295cd4994a9
+      internalID: 870790354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_21
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8be9a9c3ee104fa64d69b3eab6ad7
+      internalID: -464707849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_22
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de5cfa3c59c9654d9494555bd6614ce
+      internalID: -491830267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_23
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 712
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf30531f71525fb4782e3e98db849110
+      internalID: -1700306299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c575446663681f4a8d231f1279a6ac5
+      internalID: 1088575507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c941ad050d32f49994352609edab7f
+      internalID: 746005335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8b76c5aa44de94697be2f59a74c4aa
+      internalID: -52727217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccc93502d2fc854fa5100b59ed50f2e
+      internalID: 565250999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_28
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba02826a93dfb3141adad3f5bd3ed9a4
+      internalID: 1482167528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_29
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696a9b4f1ed8554f8c137f229ef93b9
+      internalID: -1381672881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2c498ab572a5478ce907dd2950043
+      internalID: 233146276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_31
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0fec0eeeeea124e8e4a3c1fe242d16
+      internalID: -1418814634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_32
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8963143ba0499845a53d1934077563b
+      internalID: 1824270324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_33
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ed4300a830098409b8586d4d4fde76
+      internalID: 1327746589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_34
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c7210f6a125b543a4650d5050d9992
+      internalID: -771532530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_35
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 576
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c40e4e516a8ae47ac919da4578222b
+      internalID: 644256143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb71bb649779d54a9693fa7794439a7
+      internalID: 1402476533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c89ee2abfcb424e895e867adb342e9
+      internalID: 1175986785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bfda2b0c38fd440b0e008e171bee20
+      internalID: -1265601375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3622ec03a3d58ab408dacb57680491fb
+      internalID: 878554051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_40
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684212e74a7a004b95f6404d05a5d54
+      internalID: 906163716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea1bdf4e3889224781951e90f5d36f8
+      internalID: -563564288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_42
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31321dd428aafc847bc0fa41e6e37980
+      internalID: -1002898464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_43
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78d4481ac66a834487bd05667bc9913
+      internalID: -1720709497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_44
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea4ddd6a7e3f94ba1e2e5637f6a0f2
+      internalID: -1010813341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_45
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a67c67e5553324bae39efaeb175d40
+      internalID: -602218446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_46
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc4bfb92cc40b478b4cb13ee005165
+      internalID: 1961258197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_47
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e952cd0b27c0ce4bbbdcd9091eee121
+      internalID: 1348240252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce979d2729a38614f92ddce0483f17e7
+      internalID: -1146347919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd93462c408e6814c8e7ba76f4f30d1a
+      internalID: -1194647970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9115155065ce95448f081107e195c77
+      internalID: -2005564347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_51
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c2bf9019b34ab41b5a7a6bb4006971
+      internalID: -318012686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_52
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984177671e62f82458293a7a3d1db417
+      internalID: -1535518882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_53
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da19b2470afbc4e99b41206ed28857
+      internalID: 2082462960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_54
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1373dd09b7a394ea5859a34b507e1f
+      internalID: -524955730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_55
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f075dc25f03e49bc69a1a26e43fe6
+      internalID: 155508679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_56
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae22916753a7042b7aa7018cba590d
+      internalID: -437942102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_57
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8102f845a6ae4d340b9beb8981beedfe
+      internalID: -253663542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_58
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6c4f875ec79a4b926e37475ece2ec
+      internalID: 215984090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_59
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481edc17f0b19924fb77d9ff472d2cc1
+      internalID: 1856785716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d23ad64eee8744b31823c7be0f76b
+      internalID: 1122150732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8180e3dffb146e94c872531a5fe3d225
+      internalID: -1113984610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2ddc451e1f3046bd272625fafc8ed
+      internalID: 242670623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_63
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11123e6a1bb596244a7fb06c7119717a
+      internalID: 1561874287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_64
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce955610cdba272448ff04afb5024c4d
+      internalID: 1712016527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_65
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9fad08556b65244b2a3a1dc9626ef0
+      internalID: -1284373765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5cf3efe0dcab34baf5cb7743a2f2fe
+      internalID: -273953882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_67
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2090b6981284bc469e996289f361bfe
+      internalID: 9590435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_68
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7e69a867773794fbd9e62e0297b936
+      internalID: 1111803702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_69
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f37368b07b8e94db40a7b414eb5f33
+      internalID: 1607013322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_70
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd792405430f314db5f83247d03427b
+      internalID: 519688909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_71
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 168
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c319a633c7d9c254199042fcbde5fc2d
+      internalID: 802995958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbede8522e1d6654f9f67fbf37bc1be6
+      internalID: 434953606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_73
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef525bbf5a6ce5445ba35f0b8b518350
+      internalID: -1227501166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_74
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4d0bb759e86646928a3e704daaff1
+      internalID: 1659820030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_75
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d1c73df16a44488cc145d10814dce
+      internalID: -1475682203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_76
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe11056a6b606743a7363ebef88c146
+      internalID: 756773108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_77
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4e2ba288f8c7044bb1bc50cc101578
+      internalID: 485926873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91120d54080ec76409eda6d0070c6b0e
+      internalID: -1842623315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_79
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3225526cbaba48a1b9002f1921e66
+      internalID: -112987462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_80
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3588958777b4b44bd8ff37874279de
+      internalID: -291897184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_81
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8520205fc8ea7254e9918a4822a9676f
+      internalID: 848845968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeraligatrFront_82
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a24ad45c173e4aa806cbb2091069b
+      internalID: -1610621228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 346ac032df0b67a42a02b2634fe0485f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":96.0},"gridSpriteOffset":{"x":20.0,"y":8.0},"gridSpritePadding":{"x":50.0,"y":40.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FeraligatrFront_0: -2974279295290541628
+      FeraligatrFront_1: 609471705
+      FeraligatrFront_10: -1614701993
+      FeraligatrFront_11: -1244615450
+      FeraligatrFront_12: 1479235115
+      FeraligatrFront_13: 934649265
+      FeraligatrFront_14: -1421441432
+      FeraligatrFront_15: -1172205572
+      FeraligatrFront_16: 1682434505
+      FeraligatrFront_17: -1402045141
+      FeraligatrFront_18: -666921598
+      FeraligatrFront_19: -1629954101
+      FeraligatrFront_2: -1101910876
+      FeraligatrFront_20: 870790354
+      FeraligatrFront_21: -464707849
+      FeraligatrFront_22: -491830267
+      FeraligatrFront_23: -1700306299
+      FeraligatrFront_24: 1088575507
+      FeraligatrFront_25: 746005335
+      FeraligatrFront_26: -52727217
+      FeraligatrFront_27: 565250999
+      FeraligatrFront_28: 1482167528
+      FeraligatrFront_29: -1381672881
+      FeraligatrFront_3: 1552725593
+      FeraligatrFront_30: 233146276
+      FeraligatrFront_31: -1418814634
+      FeraligatrFront_32: 1824270324
+      FeraligatrFront_33: 1327746589
+      FeraligatrFront_34: -771532530
+      FeraligatrFront_35: 644256143
+      FeraligatrFront_36: 1402476533
+      FeraligatrFront_37: 1175986785
+      FeraligatrFront_38: -1265601375
+      FeraligatrFront_39: 878554051
+      FeraligatrFront_4: -2132488271
+      FeraligatrFront_40: 906163716
+      FeraligatrFront_41: -563564288
+      FeraligatrFront_42: -1002898464
+      FeraligatrFront_43: -1720709497
+      FeraligatrFront_44: -1010813341
+      FeraligatrFront_45: -602218446
+      FeraligatrFront_46: 1961258197
+      FeraligatrFront_47: 1348240252
+      FeraligatrFront_48: -1146347919
+      FeraligatrFront_49: -1194647970
+      FeraligatrFront_5: -939839807
+      FeraligatrFront_50: -2005564347
+      FeraligatrFront_51: -318012686
+      FeraligatrFront_52: -1535518882
+      FeraligatrFront_53: 2082462960
+      FeraligatrFront_54: -524955730
+      FeraligatrFront_55: 155508679
+      FeraligatrFront_56: -437942102
+      FeraligatrFront_57: -253663542
+      FeraligatrFront_58: 215984090
+      FeraligatrFront_59: 1856785716
+      FeraligatrFront_6: 662088515
+      FeraligatrFront_60: 1122150732
+      FeraligatrFront_61: -1113984610
+      FeraligatrFront_62: 242670623
+      FeraligatrFront_63: 1561874287
+      FeraligatrFront_64: 1712016527
+      FeraligatrFront_65: -1284373765
+      FeraligatrFront_66: -273953882
+      FeraligatrFront_67: 9590435
+      FeraligatrFront_68: 1111803702
+      FeraligatrFront_69: 1607013322
+      FeraligatrFront_7: 1917452958
+      FeraligatrFront_70: 519688909
+      FeraligatrFront_71: 802995958
+      FeraligatrFront_72: 434953606
+      FeraligatrFront_73: -1227501166
+      FeraligatrFront_74: 1659820030
+      FeraligatrFront_75: -1475682203
+      FeraligatrFront_76: 756773108
+      FeraligatrFront_77: 485926873
+      FeraligatrFront_78: -1842623315
+      FeraligatrFront_79: -112987462
+      FeraligatrFront_8: 1827170544
+      FeraligatrFront_80: -291897184
+      FeraligatrFront_81: 848845968
+      FeraligatrFront_82: -1610621228
+      FeraligatrFront_9: 1541300892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

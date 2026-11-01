@@ -1,38 +1,35 @@
-using System;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Events;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : MonoBehaviour,ISaveable
 {
-    public PlayerInventory playerInventory;
-    public PlayerToolbar playerToolbar;
-    public PlayerStats playerStats;
-    public PlayerParty playerParty;
-    [SerializeField] private PlayerData playerData;
-
+    private PlayerStats _stats = new();
+    public SaveKey _saveKey => SaveKey.PlayerStats;
     void Awake()
     {
-        playerInventory.SetInventory(playerData.Inventory);
-        playerToolbar.SetToolbar(playerData.Toolbar);
-        playerStats.SetPlayerStats(playerData);
-        playerParty.SetPartyMembers(playerData.PartyMembers);
+        EventBus<SSaveData>.Subscribe(ImportSaveData);
     }
-    void Start()
+    void OnDestroy()
     {
-
+        EventBus<SSaveData>.Unsubscribe(ImportSaveData);
     }
-
-    void Update()
+    void OnEnable()
     {
-
+        ManagerSave.Instance.Register(this);
     }
-    void FixedUpdate()
+    void OnDisable()
     {
-
+        ManagerSave.Instance.Unregister(this);
     }
-    public PlayerData GetPlayerData()
+    public SaveData ExportSaveData()
     {
-        return playerData;
+        SaveData saveData = new()
+        {
+            _player = _stats.GetPlayerSaveData()
+        };
+        return saveData;
+    }
+    public void ImportSaveData(SSaveData data)
+    {
+        _stats.SetPlayerStats(JsonUtility.ToJson(data.saveData._player));
     }
 }

@@ -5,10 +5,12 @@ public class UIHandleBtn : MonoBehaviour
 {
     [Header("UI References")]
     [SerializeField] GameObject _object;
+    private bool isActive = false;
 
-    public void SetActive(bool isActive)
+    public void SetActive()
     {
         if (_object == null) return;
-        _object.SetActive(!isActive);
+        isActive = !isActive;
+        _object.SetActive(isActive);
     }
 }

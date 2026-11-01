@@ -9,15 +9,12 @@ public class Bootstrapper : MonoBehaviour
     [Header("Scene Settings")]
     public const string MAIN_MENU_SCENE_NAME = "MainMenu";
     [SerializeField] private Slider LoadingSlider;
-
     [Header("Game Manager")]
     public ManagerAssets ManagerAssets;
     public ManagerAudio ManagerAudio;
-    public ManagerSave ManagerSave;
     public ManagerGame ManagerGame;
     public ManagerScene ManagerScene;
     public ManagerInput ManagerInput;
-    
 
     private void Awake()
     {
@@ -34,27 +31,27 @@ public class Bootstrapper : MonoBehaviour
     {
         DontDestroyOnLoad(ManagerAssets);
         DontDestroyOnLoad(ManagerAudio);
-        DontDestroyOnLoad(ManagerSave);
         DontDestroyOnLoad(ManagerGame);
         DontDestroyOnLoad(ManagerInput);
         DontDestroyOnLoad(ManagerScene);
-        yield return null; 
+        yield return null;
     }
     private IEnumerator LoadMainScene()
     {
+        LoadingSlider.value = 0f;
         AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(MAIN_MENU_SCENE_NAME);
         asyncLoad.allowSceneActivation = false;
-
+        float fillSpeed = 1.5f;
         while (!asyncLoad.isDone)
         {
-            LoadingSlider.value = Mathf.Lerp(0f, 1f, asyncLoad.progress / 0.9f);
-            if (asyncLoad.progress >= 0.9f)
+            float targetProgress = Mathf.Clamp01(asyncLoad.progress / 0.9f);
+            LoadingSlider.value = Mathf.MoveTowards(LoadingSlider.value, targetProgress, Time.deltaTime * fillSpeed);
+            if (asyncLoad.progress >= 0.9f && Mathf.Approximately(LoadingSlider.value, 1f))
             {
-                yield return new WaitForSeconds(0.5f);
+                yield return new WaitForSeconds(0.2f);
                 asyncLoad.allowSceneActivation = true;
             }
             yield return null;
         }
-
     }
 }

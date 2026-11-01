@@ -9,9 +9,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5fb658cc220444f458cc37aa327fa115, type: 3}
+  m_Script: {fileID: 11500000, guid: a26dffcf7d9cebb468acebe13d670f46, type: 3}
   m_Name: Axe
-  m_EditorClassIdentifier: Assembly-CSharp::Item
-  ID: item_001
-  Name: Axe
-  Image: {fileID: 4701689186059867459, guid: 5c9d9c12c3a04a14cbf9b8166fadd4a7, type: 3}
+  m_EditorClassIdentifier: Assembly-CSharp::Tool
+  itemId: item_tool_axe
+  itemName: Axe
+  description: 
+  image: {fileID: 4701689186059867459, guid: 5c9d9c12c3a04a14cbf9b8166fadd4a7, type: 3}
+  type: 2
+  maxStack: 1
+  isUnique: 1
+  isDiscardable: 1
+  isSellable: 0
+  buyPrice: 0
+  sellPrice: 0
+  isTradeable: 0
+  usableIn: 2
+  targetType: 0
