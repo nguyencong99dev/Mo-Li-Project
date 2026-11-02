@@ -24,7 +24,7 @@
 *.blend1
 *.blend1.meta
 
-# MemoryCaptures can get excessive in size.
+# MemoryCaptures can get excessive in size. 
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
@@ -40,8 +40,8 @@
 *.DotSettings.user
 
 # Visual Studio cache directory
-.vs/
-
+.vscode/
+/Assets/_Recovery/
 # Gradle cache directory
 .gradle/
 
