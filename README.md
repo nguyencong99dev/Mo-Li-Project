@@ -3,6 +3,7 @@
 > A solo-developed, turn-based monster-collection RPG built with **Unity 6** and **C#**, with a focus on decoupled, data-driven architecture.
 
 **Status:** In active development · **Developer:** Solo · **Started:** 02/2026
+[Uploading gamedemo.webm…]()
 
 ## Highlights
 
