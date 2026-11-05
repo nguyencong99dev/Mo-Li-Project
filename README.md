@@ -4,6 +4,8 @@
 
 **Status:** In active development · **Developer:** Solo · **Started:** 02/2026
 
+[gamedemo.webm](https://github.com/user-attachments/assets/938b0c97-4d84-451c-b65b-c0df8b93d942)
+
 ## Highlights
 
 - **Decoupled architecture**: asynchronous Bootstrapper, persistent singleton managers, strict World/Combat scene boundaries
@@ -17,7 +19,7 @@
 
 | Main Menu | World | Combat |
 |-------|--------|--------|
-| Docs/Images/mainmenu.png | Docs/Images/world.png | Docs/Images/combat.png |
+| ![Main Menu](Assets/Docs/Images/mainmenu.png) | ![World](Assets/Docs/Images/world.png) | ![World](Assets/Docs/Images/combat.png) |
 
 ## Architecture
 
